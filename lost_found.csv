@@ -1,0 +1,1001 @@
+Item Name,Brand,Color,Location Found,Date Found,Lost Date,Item Category,Reported Lost Duration,Owner Information,Finder Information,Item Value,Condition When Found,Security Camera Coverage,Location Traffic,Weather Conditions,Event Occurrence,Found
+Book,-,LightYellow,Library,28-12-2023,12-12-2023,Books,25-12-2023,First Time Reporter,Information Desk,Low,Good,Covered,High Traffic,Cloudy,Normal Day,Yes
+Wallet,-,DarkSlateGray,Cafeteria,23-09-2024,24-08-2024,Electronics,17-09-2024,First Time Reporter,Housekeeping,High,Good,Covered,High Traffic,Rainy,Normal Day,No
+Book,Johnson-Singh,SteelBlue,Lecture Hall 102,31-07-2023,05-07-2023,Clothing,08-07-2023,First Time Reporter,Security,Medium,Good,Covered,Moderate Traffic,Cloudy,During Event,No
+Coffee Mug,-,MediumBlue,Student Center,10-09-2024,30-08-2024,Personal Accessories,05-09-2024,Repeat Reporter,Information Desk,Low,Damaged,Covered,Moderate Traffic,Sunny,During Event,Yes
+Water Bottle,-,LightGray,Gym Locker Room,09-03-2024,22-02-2024,Sporting Goods,05-03-2024,Repeat Reporter,None,High,Good,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+ID Card,-,DarkOliveGreen,Bus Stop,30-10-2024,14-10-2024,Personal Accessories,25-10-2024,First Time Reporter,Information Desk,Medium,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Headphones,-,SeaShell,Classroom 204,31-10-2024,20-10-2024,Electronics,27-10-2024,First Time Reporter,Information Desk,Medium,Excellent,Covered,High Traffic,Snowy,Normal Day,Yes
+Scarf,"Marsh, Hudson and Davenport",RosyBrown,Science Building,20-08-2023,24-07-2023,Electronics,04-08-2023,Repeat Reporter,Information Desk,Low,Good,Not Covered,Low Traffic,Rainy,During Event,No
+Necklace,"Medina, Gentry and Barajas",SlateBlue,Quad,17-01-2024,02-01-2024,Clothing,09-01-2024,Repeat Reporter,Security,Low,Good,Covered,Low Traffic,Rainy,During Event,Yes
+Phone Charger,-,DarkCyan,Dormitory Lounge,14-09-2023,18-08-2023,Electronics,03-09-2023,First Time Reporter,Housekeeping,High,Excellent,Not Covered,Low Traffic,Snowy,During Event,No
+Watch,-,Snow,Outdoor Amphitheater,16-01-2024,31-12-2023,Electronics,15-01-2024,Repeat Reporter,Security,High,Good,Not Covered,High Traffic,Cloudy,During Event,Yes
+Backpack,Lawrence-Smith,Maroon,Library Study Room,11-12-2023,22-11-2023,Clothing,23-11-2023,First Time Reporter,Security,Low,Good,Covered,Low Traffic,Rainy,Normal Day,No
+Tablet,"Johnson, Collins and Marshall",Gold,Coffee Shop,06-11-2023,08-10-2023,Personal Accessories,04-11-2023,Repeat Reporter,None,Low,Excellent,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Notebook,-,SeaGreen,Basketball Court,22-08-2023,25-07-2023,Clothing,10-08-2023,Repeat Reporter,None,Low,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Coffee Mug,"Walter, Coleman and Jarvis",Peru,Park,06-01-2024,27-12-2023,Books,27-12-2023,First Time Reporter,Information Desk,High,Good,Covered,High Traffic,Snowy,Normal Day,Yes
+Keys,-,DarkCyan,Stadium Bleachers,23-01-2023,21-01-2023,Books,23-01-2023,Repeat Reporter,Information Desk,High,Good,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Watch,Beasley-Crawford,GhostWhite,Common Area,10-09-2024,28-08-2024,Books,03-09-2024,First Time Reporter,None,Medium,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Laptop,"Miller, Ballard and Martin",BurlyWood,Fitness Center,15-01-2024,18-12-2023,Books,05-01-2024,First Time Reporter,Information Desk,High,Good,Not Covered,Low Traffic,Snowy,During Event,Yes
+Tablet,-,DarkSeaGreen,Cafeteria,22-03-2024,15-03-2024,Personal Accessories,17-03-2024,Repeat Reporter,Security,High,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Keys,Parker Inc,Thistle,Skate Park,04-02-2023,07-01-2023,Sporting Goods,20-01-2023,First Time Reporter,Security,High,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Phone Charger,-,PaleVioletRed,Library Stacks,26-07-2023,18-07-2023,Sporting Goods,18-07-2023,Repeat Reporter,Information Desk,High,Excellent,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Headphones,-,Magenta,Art Studio,26-07-2024,12-07-2024,Clothing,20-07-2024,Repeat Reporter,Information Desk,High,Excellent,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Backpack,Ramos Ltd,PeachPuff,Student Lounge,26-07-2023,14-07-2023,Personal Accessories,22-07-2023,Repeat Reporter,Housekeeping,Low,Good,Covered,Moderate Traffic,Rainy,During Event,Yes
+Laptop,-,CornflowerBlue,Auditorium,14-07-2023,08-07-2023,Clothing,14-07-2023,Repeat Reporter,Information Desk,High,Good,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Sunglasses,Short-Rodriguez,DarkKhaki,Bus Station,11-06-2023,15-05-2023,Electronics,27-05-2023,Repeat Reporter,Security,High,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Hat,Grimes LLC,DarkBlue,Soccer Field,21-08-2024,16-08-2024,Sporting Goods,21-08-2024,First Time Reporter,None,Medium,Good,Covered,Moderate Traffic,Rainy,Normal Day,No
+Cell Phone,Maldonado and Sons,AntiqueWhite,Chemistry Lab,12-06-2023,27-05-2023,Electronics,06-06-2023,Repeat Reporter,Security,Low,Excellent,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Jacket,-,DarkSeaGreen,Outdoor Concert Venue,13-02-2023,25-01-2023,Personal Accessories,09-02-2023,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Tumbler,-,DarkOliveGreen,Study Lounge,26-06-2024,08-06-2024,Electronics,19-06-2024,First Time Reporter,None,Medium,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Water Bottle,-,MediumBlue,Beach,05-01-2024,19-12-2023,Clothing,27-12-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+ID Card,Williams-Phillips,MidnightBlue,Dormitory Hallway,07-04-2023,03-04-2023,Clothing,07-04-2023,Repeat Reporter,Information Desk,High,Good,Not Covered,Low Traffic,Sunny,During Event,Yes
+Watch,Waters-Ross,Black,Lecture Hall Lobby,15-10-2024,09-10-2024,Electronics,15-10-2024,First Time Reporter,None,Medium,Excellent,Covered,High Traffic,Rainy,Normal Day,Yes
+Phone Charger,-,Pink,Bookstore,03-04-2024,05-03-2024,Electronics,20-03-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Umbrella,-,LightSlateGray,Music Studio,07-04-2024,18-03-2024,Personal Accessories,07-04-2024,Repeat Reporter,Information Desk,High,Good,Covered,Low Traffic,Snowy,Normal Day,No
+Keys,"Owens, Warren and Gregory",Azure,Computer Lab,06-10-2023,07-09-2023,Books,06-10-2023,First Time Reporter,Security,High,Good,Not Covered,Moderate Traffic,Snowy,Normal Day,No
+Gloves,Maddox Ltd,DeepPink,Botanical Garden,15-07-2024,04-07-2024,Books,12-07-2024,First Time Reporter,Security,High,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,No
+Phone Charger,Castro Inc,Tan,Theme Park Entrance,30-04-2023,28-04-2023,Electronics,30-04-2023,First Time Reporter,Housekeeping,Low,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Tumbler,"Smith, Cruz and Obrien",Sienna,Shopping Mall,02-07-2023,20-06-2023,Personal Accessories,21-06-2023,First Time Reporter,Security,Low,Good,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Wallet,Tucker-Cortez,BlueViolet,Rooftop Bar,25-08-2024,22-08-2024,Sporting Goods,23-08-2024,Repeat Reporter,None,Low,Good,Not Covered,High Traffic,Snowy,During Event,Yes
+Coffee Mug,Bright-Medina,DarkSeaGreen,Gym,16-04-2024,06-04-2024,Electronics,07-04-2024,Repeat Reporter,Information Desk,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Earbuds,Lewis Inc,NavajoWhite,Ice Skating Rink,28-04-2024,12-04-2024,Sporting Goods,26-04-2024,Repeat Reporter,Housekeeping,Medium,Good,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Jacket,-,Pink,Student Center,29-03-2024,25-03-2024,Electronics,26-03-2024,Repeat Reporter,Housekeeping,Low,Good,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Notebook,"Jones, Hogan and Murphy",OrangeRed,Coffee Shop Patio,30-01-2024,08-01-2024,Electronics,29-01-2024,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Jacket,"Robertson, Jones and Johnson",Cyan,Rooftop Pool,26-08-2023,27-07-2023,Books,03-08-2023,First Time Reporter,Housekeeping,Medium,Excellent,Covered,High Traffic,Sunny,Normal Day,No
+Laptop,-,PowderBlue,Campus Trail,05-12-2024,05-11-2024,Electronics,17-11-2024,Repeat Reporter,None,High,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Earbuds,Robles Ltd,OldLace,Stadium Stands,10-12-2024,20-11-2024,Books,23-11-2024,First Time Reporter,Information Desk,Medium,Good,Covered,Low Traffic,Rainy,Normal Day,Yes
+Wallet,-,LightSeaGreen,Study Lounge,30-07-2023,04-07-2023,Electronics,06-07-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Sunny,During Event,Yes
+Notebook,-,LawnGreen,Library,17-04-2023,18-03-2023,Personal Accessories,09-04-2023,First Time Reporter,None,Medium,Good,Covered,Low Traffic,Snowy,Normal Day,Yes
+ID Card,"Norris, Holmes and Miller",AntiqueWhite,Park,12-02-2023,16-01-2023,Personal Accessories,18-01-2023,First Time Reporter,Security,Medium,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Phone Charger,-,PaleTurquoise,Student Union,10-06-2023,14-05-2023,Personal Accessories,02-06-2023,First Time Reporter,Security,High,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Jacket,Howard-Schroeder,LightSlateGray,Bus Stop,18-09-2024,17-09-2024,Sporting Goods,18-09-2024,First Time Reporter,Housekeeping,High,Good,Covered,High Traffic,Snowy,During Event,No
+Notebook,"Brown, Cobb and Miller",Khaki,Cafeteria,01-04-2024,08-03-2024,Electronics,20-03-2024,First Time Reporter,Information Desk,Medium,Good,Not Covered,High Traffic,Snowy,Normal Day,No
+Scarf,-,Silver,Bus Stop,16-11-2023,13-11-2023,Sporting Goods,13-11-2023,First Time Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Snowy,During Event,No
+Scarf,-,LightSlateGray,Cafeteria,24-02-2023,07-02-2023,Electronics,12-02-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,High Traffic,Sunny,Normal Day,No
+Tumbler,-,DeepSkyBlue,Library Study Room,29-11-2024,31-10-2024,Sporting Goods,22-11-2024,First Time Reporter,Security,Low,Damaged,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Laptop,Sullivan Inc,MediumVioletRed,Student Union,05-11-2024,28-10-2024,Books,01-11-2024,First Time Reporter,None,High,Excellent,Not Covered,Low Traffic,Sunny,Normal Day,No
+Earbuds,-,Purple,Outdoor Patio,02-06-2024,23-05-2024,Personal Accessories,26-05-2024,First Time Reporter,Information Desk,Low,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Book,Hughes and Sons,MistyRose,Computer Lab,30-07-2023,03-07-2023,Personal Accessories,25-07-2023,Repeat Reporter,Housekeeping,High,Good,Not Covered,Low Traffic,Rainy,During Event,Yes
+Water Bottle,"Frye, Cox and Marshall",LawnGreen,Library,26-09-2024,14-09-2024,Clothing,25-09-2024,First Time Reporter,Information Desk,Low,Damaged,Covered,High Traffic,Rainy,Normal Day,Yes
+Sunglasses,-,Teal,Gym,19-05-2023,25-04-2023,Books,02-05-2023,Repeat Reporter,None,Low,Good,Covered,High Traffic,Snowy,Normal Day,Yes
+Laptop,Herring-King,MediumOrchid,Quad,02-04-2023,10-03-2023,Personal Accessories,20-03-2023,Repeat Reporter,None,Medium,Damaged,Covered,High Traffic,Sunny,Normal Day,Yes
+Earbuds,Hill Inc,PaleGreen,Cafeteria,19-03-2024,21-02-2024,Personal Accessories,14-03-2024,Repeat Reporter,Security,Medium,Damaged,Covered,High Traffic,Rainy,Normal Day,Yes
+ID Card,Collins-Nichols,Yellow,Baseball Field,22-12-2024,08-12-2024,Clothing,20-12-2024,First Time Reporter,None,Low,Damaged,Covered,Low Traffic,Cloudy,Normal Day,No
+Tablet,Sawyer LLC,Gold,Football Stadium,10-07-2023,29-06-2023,Personal Accessories,07-07-2023,First Time Reporter,Security,Low,Excellent,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Backpack,-,PaleVioletRed,Shopping Mall,10-09-2024,09-09-2024,Personal Accessories,10-09-2024,First Time Reporter,Housekeeping,High,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Watch,"Martin, Brock and Ortega",Coral,Rooftop Bar,26-08-2023,25-08-2023,Personal Accessories,26-08-2023,Repeat Reporter,Security,High,Damaged,Not Covered,Low Traffic,Sunny,During Event,Yes
+Tumbler,Mcguire-Franklin,Wheat,Library Stacks,21-12-2024,06-12-2024,Sporting Goods,17-12-2024,First Time Reporter,Security,High,Excellent,Covered,Low Traffic,Sunny,Normal Day,Yes
+Watch,-,LightCoral,Bus Ride,15-02-2024,16-01-2024,Sporting Goods,28-01-2024,First Time Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Rainy,Normal Day,No
+Water Bottle,Quinn Ltd,Gray,Coffee Shop,03-02-2024,05-01-2024,Sporting Goods,09-01-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Necklace,"Ellis, Bruce and Jenkins",HotPink,Park,06-02-2024,12-01-2024,Sporting Goods,26-01-2024,First Time Reporter,Information Desk,Medium,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,No
+Water Bottle,-,Gainsboro,Classroom 303,14-01-2024,12-01-2024,Books,14-01-2024,First Time Reporter,Information Desk,Low,Excellent,Covered,Moderate Traffic,Sunny,During Event,No
+Book,"Adkins, Dominguez and Copeland",SkyBlue,Student Lounge,24-04-2023,29-03-2023,Personal Accessories,23-04-2023,First Time Reporter,Information Desk,Medium,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Book,Ramirez PLC,Snow,Dormitory Lounge,25-01-2024,12-01-2024,Personal Accessories,23-01-2024,Repeat Reporter,Housekeeping,Low,Excellent,Covered,High Traffic,Snowy,During Event,Yes
+Coffee Mug,"Marshall, Bell and Berger",SeaShell,Soccer Field,11-02-2023,14-01-2023,Sporting Goods,26-01-2023,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Laptop,Davis Inc,CornflowerBlue,Science Building,08-02-2023,26-01-2023,Electronics,08-02-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,Low Traffic,Sunny,Normal Day,No
+Keys,Aguirre-Taylor,LightSkyBlue,Hiking Trail,16-09-2024,04-09-2024,Sporting Goods,09-09-2024,First Time Reporter,None,High,Damaged,Covered,Low Traffic,Cloudy,Normal Day,No
+ID Card,-,MediumVioletRed,Student Center,05-02-2023,19-01-2023,Clothing,28-01-2023,First Time Reporter,Information Desk,High,Excellent,Covered,Moderate Traffic,Sunny,Normal Day,No
+Tablet,Mcgee-Castro,MediumTurquoise,Outdoor Concert Venue,20-09-2023,22-08-2023,Books,17-09-2023,Repeat Reporter,Information Desk,High,Good,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Sunglasses,-,Coral,Library,05-04-2023,10-03-2023,Personal Accessories,26-03-2023,First Time Reporter,None,Medium,Damaged,Not Covered,High Traffic,Sunny,During Event,Yes
+Scarf,Smith and Sons,Olive,Classroom 201,29-03-2024,25-03-2024,Personal Accessories,28-03-2024,Repeat Reporter,Housekeeping,High,Excellent,Covered,High Traffic,Snowy,Normal Day,Yes
+Jacket,-,MediumSeaGreen,Library Study Room,11-12-2024,10-12-2024,Clothing,10-12-2024,Repeat Reporter,Information Desk,Medium,Good,Covered,Moderate Traffic,Cloudy,Normal Day,No
+Headphones,-,Moccasin,Bus Stop,16-04-2023,31-03-2023,Sporting Goods,10-04-2023,First Time Reporter,None,Low,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Water Bottle,Russell PLC,GhostWhite,Beach,23-01-2024,30-12-2023,Books,14-01-2024,First Time Reporter,None,High,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Phone Charger,-,PapayaWhip,Study Lounge,23-05-2024,12-05-2024,Electronics,20-05-2024,First Time Reporter,None,Low,Damaged,Not Covered,High Traffic,Rainy,During Event,Yes
+Tumbler,-,LawnGreen,Coffee Shop,19-04-2023,12-04-2023,Clothing,14-04-2023,Repeat Reporter,Security,Medium,Excellent,Covered,High Traffic,Cloudy,During Event,Yes
+Umbrella,-,PaleGreen,Library Entrance,09-02-2024,01-02-2024,Personal Accessories,07-02-2024,Repeat Reporter,None,High,Excellent,Covered,Low Traffic,Snowy,During Event,Yes
+ID Card,Walton-Ortega,DarkKhaki,Bookstore,06-07-2024,12-06-2024,Sporting Goods,23-06-2024,First Time Reporter,Security,Low,Damaged,Not Covered,Low Traffic,Sunny,During Event,No
+Keys,-,Cyan,Gym,07-04-2023,19-03-2023,Electronics,24-03-2023,Repeat Reporter,None,Medium,Good,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Coffee Mug,-,LightSalmon,Lecture Hall 104,25-05-2023,05-05-2023,Personal Accessories,21-05-2023,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Cloudy,Normal Day,No
+Tumbler,Thomas-Washington,Violet,Student Lounge,07-11-2024,18-10-2024,Clothing,05-11-2024,First Time Reporter,Security,High,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Jacket,-,White,Trailhead,17-07-2024,05-07-2024,Clothing,05-07-2024,First Time Reporter,Security,Medium,Damaged,Covered,High Traffic,Cloudy,Normal Day,Yes
+Sunglasses,"Phillips, Doyle and Newton",SkyBlue,Shopping Mall,27-03-2024,21-03-2024,Clothing,23-03-2024,Repeat Reporter,Information Desk,Medium,Damaged,Not Covered,High Traffic,Snowy,Normal Day,No
+Tumbler,Gaines-Li,LightSlateGray,Library,10-06-2023,14-05-2023,Personal Accessories,02-06-2023,Repeat Reporter,Information Desk,High,Damaged,Covered,High Traffic,Sunny,During Event,No
+Water Bottle,"Hill, Murphy and Fox",MediumSeaGreen,Cafeteria,13-07-2024,26-06-2024,Clothing,10-07-2024,First Time Reporter,Security,High,Good,Covered,Low Traffic,Sunny,During Event,Yes
+Jacket,-,PapayaWhip,Lecture Hall 102,25-10-2023,06-10-2023,Books,12-10-2023,Repeat Reporter,Housekeeping,High,Excellent,Covered,Moderate Traffic,Snowy,During Event,No
+Notebook,Stevens Ltd,Tomato,Student Center,07-03-2024,05-03-2024,Electronics,07-03-2024,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Watch,"Monroe, Barker and Johnson",LightGoldenRodYellow,Gym Locker Room,19-04-2023,30-03-2023,Sporting Goods,30-03-2023,First Time Reporter,Information Desk,Medium,Excellent,Not Covered,High Traffic,Rainy,During Event,Yes
+Book,"Salinas, Williams and Price",PaleTurquoise,Bus Stop,19-11-2023,23-10-2023,Clothing,13-11-2023,Repeat Reporter,Housekeeping,Low,Good,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Charger,Mccoy and Sons,MediumOrchid,Classroom 204,15-11-2023,19-10-2023,Sporting Goods,15-11-2023,Repeat Reporter,Information Desk,High,Excellent,Covered,Low Traffic,Sunny,Normal Day,Yes
+Scarf,-,MediumSpringGreen,Science Building,15-10-2023,30-09-2023,Books,07-10-2023,Repeat Reporter,Security,Medium,Damaged,Covered,Moderate Traffic,Rainy,During Event,Yes
+Water Bottle,Mcdaniel-Baker,RoyalBlue,Quad,18-09-2024,14-09-2024,Books,16-09-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Cell Phone,-,White,Dormitory Lounge,14-06-2023,10-06-2023,Personal Accessories,14-06-2023,Repeat Reporter,None,Medium,Excellent,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Coffee Mug,"Henson, Alvarez and Miller",LightSteelBlue,Outdoor Amphitheater,30-05-2023,08-05-2023,Electronics,08-05-2023,Repeat Reporter,Information Desk,High,Excellent,Covered,High Traffic,Cloudy,During Event,Yes
+Wallet,Russell PLC,Aquamarine,Library Study Room,28-09-2024,04-09-2024,Books,26-09-2024,First Time Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Snowy,During Event,Yes
+Laptop,-,Tomato,Coffee Shop,17-07-2024,07-07-2024,Clothing,11-07-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,High Traffic,Cloudy,Normal Day,No
+Tumbler,"Williams, Melton and Sanders",MediumSlateBlue,Basketball Court,03-11-2023,24-10-2023,Books,27-10-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Rainy,Normal Day,Yes
+Charger,-,LightSalmon,Park,29-05-2023,11-05-2023,Sporting Goods,28-05-2023,First Time Reporter,Information Desk,Medium,Good,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Watch,-,DarkSalmon,Stadium Bleachers,04-11-2023,13-10-2023,Clothing,15-10-2023,First Time Reporter,Information Desk,High,Good,Covered,High Traffic,Rainy,Normal Day,No
+Backpack,-,MistyRose,Common Area,04-01-2023,22-12-2022,Electronics,24-12-2022,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Book,-,Green,Fitness Center,19-06-2024,26-05-2024,Electronics,12-06-2024,Repeat Reporter,Security,Low,Good,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Necklace,Sullivan Ltd,PaleVioletRed,Cafeteria,07-05-2023,25-04-2023,Clothing,26-04-2023,First Time Reporter,None,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Watch,"Brady, Lozano and Terry",Crimson,Skate Park,06-12-2023,18-11-2023,Books,29-11-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Hat,Silva-Sparks,SeaShell,Library Stacks,17-02-2024,10-02-2024,Personal Accessories,11-02-2024,First Time Reporter,Information Desk,Low,Excellent,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Jacket,Wilson and Sons,DarkOliveGreen,Art Studio,04-04-2023,22-03-2023,Personal Accessories,04-04-2023,First Time Reporter,Housekeeping,Medium,Good,Not Covered,Moderate Traffic,Rainy,Normal Day,No
+Wallet,-,Peru,Student Lounge,14-06-2024,03-06-2024,Electronics,05-06-2024,First Time Reporter,Security,Low,Excellent,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Water Bottle,-,LimeGreen,Auditorium,14-02-2024,02-02-2024,Books,11-02-2024,First Time Reporter,None,Medium,Excellent,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Umbrella,"Rodriguez, Lopez and Jordan",Teal,Bus Station,10-02-2024,18-01-2024,Electronics,07-02-2024,First Time Reporter,Information Desk,High,Excellent,Not Covered,High Traffic,Rainy,Normal Day,No
+Water Bottle,-,SlateBlue,Soccer Field,25-02-2023,14-02-2023,Sporting Goods,16-02-2023,Repeat Reporter,Security,High,Excellent,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Coffee Mug,Berger PLC,HotPink,Chemistry Lab,25-09-2024,07-09-2024,Electronics,15-09-2024,Repeat Reporter,Security,High,Excellent,Not Covered,High Traffic,Rainy,Normal Day,No
+Earbuds,"Combs, Mccoy and Mcbride",DarkBlue,Outdoor Concert Venue,04-12-2024,29-11-2024,Personal Accessories,03-12-2024,First Time Reporter,None,Medium,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Earbuds,-,Blue,Study Lounge,29-04-2023,26-04-2023,Electronics,26-04-2023,Repeat Reporter,Security,Medium,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,No
+Tablet,-,FireBrick,Beach,25-03-2024,22-03-2024,Books,25-03-2024,First Time Reporter,Housekeeping,Low,Good,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Cell Phone,-,Lime,Dormitory Hallway,06-08-2023,29-07-2023,Clothing,30-07-2023,First Time Reporter,None,Low,Excellent,Not Covered,Low Traffic,Snowy,During Event,Yes
+Gloves,Powers and Sons,MediumVioletRed,Lecture Hall Lobby,17-12-2024,25-11-2024,Electronics,14-12-2024,Repeat Reporter,Housekeeping,High,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Tumbler,-,Salmon,Bookstore,03-05-2024,28-04-2024,Electronics,03-05-2024,First Time Reporter,Housekeeping,High,Damaged,Covered,High Traffic,Rainy,During Event,Yes
+Laptop,Obrien-Miller,AliceBlue,Music Studio,26-12-2023,18-12-2023,Books,19-12-2023,Repeat Reporter,Information Desk,Medium,Excellent,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Phone Charger,Lester-Christensen,SlateBlue,Computer Lab,28-09-2024,02-09-2024,Personal Accessories,12-09-2024,Repeat Reporter,Security,High,Damaged,Covered,Moderate Traffic,Rainy,During Event,No
+Sunglasses,Roberts-Wilson,DodgerBlue,Botanical Garden,24-06-2023,22-06-2023,Clothing,24-06-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,Moderate Traffic,Cloudy,Normal Day,No
+Phone Charger,-,DarkSeaGreen,Theme Park Entrance,17-12-2024,14-12-2024,Books,17-12-2024,First Time Reporter,Security,Low,Damaged,Covered,High Traffic,Sunny,Normal Day,Yes
+Necklace,-,Sienna,Shopping Mall,18-10-2023,26-09-2023,Clothing,04-10-2023,Repeat Reporter,None,Low,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Headphones,-,Magenta,Rooftop Bar,31-03-2023,24-03-2023,Sporting Goods,25-03-2023,First Time Reporter,Security,Low,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Watch,-,LemonChiffon,Gym,15-09-2023,13-09-2023,Personal Accessories,13-09-2023,Repeat Reporter,Security,High,Good,Not Covered,High Traffic,Sunny,During Event,Yes
+Umbrella,-,Sienna,Ice Skating Rink,18-11-2024,25-10-2024,Personal Accessories,14-11-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Scarf,Miller and Sons,RosyBrown,Student Center,25-08-2023,06-08-2023,Sporting Goods,10-08-2023,First Time Reporter,Housekeeping,Low,Good,Covered,High Traffic,Cloudy,Normal Day,Yes
+Jacket,Ho LLC,MistyRose,Coffee Shop Patio,11-09-2023,29-08-2023,Books,30-08-2023,Repeat Reporter,Housekeeping,High,Excellent,Not Covered,Low Traffic,Sunny,During Event,No
+Gloves,-,DarkSlateGray,Rooftop Pool,02-12-2023,15-11-2023,Books,17-11-2023,Repeat Reporter,Information Desk,High,Good,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Water Bottle,Smith-Robinson,CornflowerBlue,Campus Trail,31-10-2023,30-10-2023,Clothing,31-10-2023,Repeat Reporter,Security,Low,Excellent,Not Covered,Low Traffic,Sunny,During Event,Yes
+Umbrella,Jennings LLC,Beige,Stadium Stands,01-10-2023,07-09-2023,Clothing,19-09-2023,First Time Reporter,Information Desk,Low,Damaged,Not Covered,High Traffic,Snowy,During Event,No
+ID Card,Hernandez LLC,PaleGreen,Study Lounge,07-10-2024,12-09-2024,Personal Accessories,30-09-2024,Repeat Reporter,Security,High,Good,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+ID Card,Woodard-York,BurlyWood,Library,02-10-2024,28-09-2024,Books,01-10-2024,First Time Reporter,Security,High,Good,Not Covered,Low Traffic,Snowy,During Event,No
+Hat,-,MidnightBlue,Park,01-12-2024,01-11-2024,Books,22-11-2024,Repeat Reporter,Information Desk,High,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,No
+Wallet,-,Cornsilk,Student Union,21-02-2024,06-02-2024,Books,12-02-2024,Repeat Reporter,Security,Medium,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Backpack,-,Maroon,Bus Stop,03-05-2024,15-04-2024,Electronics,26-04-2024,Repeat Reporter,Information Desk,High,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Necklace,-,YellowGreen,Cafeteria,26-03-2023,14-03-2023,Electronics,21-03-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Backpack,-,FloralWhite,Bus Stop,13-12-2024,23-11-2024,Personal Accessories,30-11-2024,First Time Reporter,None,Medium,Excellent,Covered,High Traffic,Sunny,Normal Day,Yes
+Charger,Dickson Ltd,Plum,Cafeteria,21-03-2024,25-02-2024,Electronics,20-03-2024,First Time Reporter,Housekeeping,Low,Good,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Headphones,-,Chartreuse,Library Study Room,10-03-2023,16-02-2023,Books,27-02-2023,Repeat Reporter,None,Low,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Necklace,Galloway Inc,Gold,Student Union,10-07-2023,01-07-2023,Books,05-07-2023,First Time Reporter,None,High,Damaged,Not Covered,High Traffic,Cloudy,During Event,Yes
+Notebook,-,Indigo,Outdoor Patio,09-03-2023,02-03-2023,Electronics,04-03-2023,Repeat Reporter,Security,High,Damaged,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Phone Charger,-,LightSeaGreen,Computer Lab,30-09-2024,26-09-2024,Books,26-09-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+ID Card,"Kirk, Kelly and Lawson",MediumAquaMarine,Library,27-01-2023,23-01-2023,Clothing,23-01-2023,First Time Reporter,Housekeeping,Low,Good,Covered,High Traffic,Sunny,During Event,No
+Keys,-,LightYellow,Gym,30-06-2023,26-06-2023,Books,30-06-2023,Repeat Reporter,None,High,Good,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Backpack,-,MidnightBlue,Quad,28-05-2023,12-05-2023,Books,20-05-2023,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Headphones,"Hill, Morton and Wright",Violet,Cafeteria,29-07-2023,23-07-2023,Clothing,28-07-2023,First Time Reporter,None,Low,Good,Covered,High Traffic,Sunny,During Event,Yes
+Headphones,-,DarkViolet,Baseball Field,12-09-2024,19-08-2024,Sporting Goods,26-08-2024,Repeat Reporter,Housekeeping,Low,Excellent,Covered,Moderate Traffic,Sunny,During Event,No
+Scarf,"Martin, Rivera and Lopez",Lime,Football Stadium,16-09-2024,23-08-2024,Sporting Goods,15-09-2024,First Time Reporter,Housekeeping,Low,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Umbrella,Hill Inc,Navy,Shopping Mall,03-04-2023,06-03-2023,Sporting Goods,13-03-2023,First Time Reporter,Housekeeping,Low,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+Cell Phone,-,MintCream,Rooftop Bar,06-11-2023,27-10-2023,Personal Accessories,31-10-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,Low Traffic,Snowy,During Event,No
+Book,-,Tan,Library Stacks,29-06-2023,07-06-2023,Clothing,28-06-2023,First Time Reporter,Security,Low,Excellent,Covered,High Traffic,Cloudy,During Event,Yes
+Laptop,"Young, Williams and Hamilton",ForestGreen,Bus Ride,08-01-2024,18-12-2023,Clothing,19-12-2023,First Time Reporter,None,High,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,No
+Book,Hale Ltd,Gainsboro,Coffee Shop,19-12-2023,11-12-2023,Clothing,13-12-2023,First Time Reporter,Housekeeping,Low,Good,Not Covered,High Traffic,Cloudy,During Event,Yes
+Scarf,-,DarkViolet,Park,07-01-2023,01-01-2023,Personal Accessories,03-01-2023,First Time Reporter,Housekeeping,High,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Notebook,-,LightSeaGreen,Classroom 303,03-08-2023,13-07-2023,Sporting Goods,13-07-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Charger,-,Thistle,Student Lounge,25-01-2023,10-01-2023,Sporting Goods,19-01-2023,First Time Reporter,Security,Medium,Good,Not Covered,High Traffic,Snowy,During Event,Yes
+ID Card,-,Azure,Dormitory Lounge,03-05-2023,02-05-2023,Sporting Goods,03-05-2023,Repeat Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Laptop,Stewart Ltd,LimeGreen,Soccer Field,30-12-2023,09-12-2023,Clothing,15-12-2023,First Time Reporter,Housekeeping,Low,Damaged,Covered,Moderate Traffic,Sunny,Normal Day,No
+Earbuds,-,DarkViolet,Science Building,07-10-2024,27-09-2024,Clothing,06-10-2024,Repeat Reporter,Security,High,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+Charger,-,Plum,Hiking Trail,13-03-2023,12-02-2023,Personal Accessories,20-02-2023,Repeat Reporter,Security,Low,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+Phone Charger,Reed-Goodman,Crimson,Student Center,21-01-2023,04-01-2023,Clothing,14-01-2023,Repeat Reporter,Housekeeping,Low,Good,Not Covered,High Traffic,Sunny,During Event,Yes
+Earbuds,"Garcia, Myers and Murray",Ivory,Outdoor Concert Venue,20-07-2023,24-06-2023,Sporting Goods,10-07-2023,First Time Reporter,Security,High,Good,Covered,Low Traffic,Rainy,During Event,Yes
+Charger,-,OliveDrab,Library,17-10-2024,20-09-2024,Clothing,08-10-2024,Repeat Reporter,Security,Low,Excellent,Covered,Low Traffic,Cloudy,During Event,Yes
+Sunglasses,-,Ivory,Classroom 201,01-02-2023,28-01-2023,Electronics,01-02-2023,First Time Reporter,Housekeeping,Low,Good,Covered,Moderate Traffic,Sunny,During Event,Yes
+Notebook,Davila Group,DarkBlue,Library Study Room,19-10-2023,20-09-2023,Electronics,21-09-2023,Repeat Reporter,Housekeeping,High,Excellent,Covered,High Traffic,Sunny,During Event,Yes
+Scarf,White-Perez,MistyRose,Bus Stop,10-11-2023,18-10-2023,Clothing,30-10-2023,Repeat Reporter,Security,Medium,Good,Covered,Low Traffic,Snowy,During Event,Yes
+Hat,-,Green,Beach,26-10-2023,11-10-2023,Personal Accessories,17-10-2023,First Time Reporter,None,Low,Damaged,Not Covered,High Traffic,Snowy,During Event,Yes
+Gloves,"Cooper, Thomas and Gardner",Sienna,Study Lounge,04-01-2023,31-12-2022,Sporting Goods,02-01-2023,Repeat Reporter,Security,Medium,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+Phone Charger,"Rose, Quinn and Garcia",PowderBlue,Coffee Shop,08-09-2023,20-08-2023,Personal Accessories,29-08-2023,Repeat Reporter,Information Desk,High,Excellent,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Tumbler,"Hernandez, Myers and Davis",Sienna,Library Entrance,21-09-2023,22-08-2023,Electronics,10-09-2023,Repeat Reporter,Security,Low,Damaged,Covered,High Traffic,Cloudy,Normal Day,Yes
+Backpack,-,Chocolate,Bookstore,13-12-2024,14-11-2024,Sporting Goods,09-12-2024,First Time Reporter,Housekeeping,High,Good,Covered,High Traffic,Snowy,During Event,No
+Coffee Mug,Jimenez-Hernandez,AliceBlue,Gym,03-06-2024,22-05-2024,Personal Accessories,03-06-2024,First Time Reporter,Housekeeping,High,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Cell Phone,"Thomas, Moore and Bradley",DarkCyan,Lecture Hall 104,11-08-2023,06-08-2023,Books,08-08-2023,Repeat Reporter,Security,Medium,Damaged,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Tablet,"Short, Davis and Cox",PaleVioletRed,Student Lounge,02-03-2024,17-02-2024,Clothing,01-03-2024,First Time Reporter,None,Low,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Water Bottle,-,BurlyWood,Trailhead,23-03-2024,19-03-2024,Books,23-03-2024,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Jacket,-,LightCoral,Shopping Mall,17-11-2023,03-11-2023,Sporting Goods,16-11-2023,First Time Reporter,Information Desk,High,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,No
+Umbrella,-,Lavender,Bus Stop,04-02-2024,25-01-2024,Books,30-01-2024,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Tumbler,Richards-Clark,Moccasin,Beach,18-10-2024,27-09-2024,Personal Accessories,29-09-2024,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Low Traffic,Sunny,Normal Day,Yes
+Tumbler,Sharp Ltd,Salmon,Study Lounge,15-04-2024,04-04-2024,Personal Accessories,12-04-2024,Repeat Reporter,Information Desk,High,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,No
+Hat,Hudson-Becker,Teal,Coffee Shop,28-01-2024,14-01-2024,Personal Accessories,23-01-2024,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Jacket,-,OliveDrab,Library Entrance,04-05-2024,06-04-2024,Electronics,20-04-2024,Repeat Reporter,Security,Low,Excellent,Covered,High Traffic,Cloudy,During Event,Yes
+Scarf,-,Chartreuse,Bookstore,26-02-2023,27-01-2023,Personal Accessories,11-02-2023,First Time Reporter,Information Desk,High,Excellent,Not Covered,Low Traffic,Sunny,During Event,Yes
+Notebook,Williams-Miller,MediumPurple,Gym,25-03-2024,10-03-2024,Books,22-03-2024,Repeat Reporter,None,Medium,Good,Not Covered,High Traffic,Cloudy,During Event,Yes
+Phone Charger,-,DarkGoldenRod,Lecture Hall 104,31-12-2023,15-12-2023,Books,22-12-2023,First Time Reporter,Housekeeping,Low,Good,Not Covered,High Traffic,Sunny,Normal Day,No
+Gloves,Rogers-Ford,LightGoldenRodYellow,Student Lounge,16-06-2024,09-06-2024,Personal Accessories,13-06-2024,First Time Reporter,None,Low,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,No
+Headphones,Sanchez-Wilson,LightSkyBlue,Trailhead,09-08-2023,08-08-2023,Electronics,08-08-2023,Repeat Reporter,None,High,Good,Not Covered,High Traffic,Snowy,During Event,Yes
+Watch,Lewis-Lopez,LightSlateGray,Shopping Mall,03-08-2023,24-07-2023,Personal Accessories,31-07-2023,Repeat Reporter,Security,High,Excellent,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Keys,-,Tomato,Library,30-10-2023,02-10-2023,Clothing,02-10-2023,First Time Reporter,Information Desk,Low,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Gloves,Gomez-Garcia,MediumSeaGreen,Cafeteria,14-10-2024,26-09-2024,Personal Accessories,01-10-2024,First Time Reporter,Housekeeping,Medium,Excellent,Covered,Moderate Traffic,Cloudy,During Event,No
+Backpack,-,MintCream,Lecture Hall 102,30-09-2023,18-09-2023,Sporting Goods,20-09-2023,Repeat Reporter,Information Desk,Medium,Excellent,Not Covered,High Traffic,Sunny,During Event,No
+Watch,"Martin, Peterson and Harvey",Moccasin,Student Center,15-08-2023,02-08-2023,Clothing,02-08-2023,Repeat Reporter,Security,High,Excellent,Covered,Moderate Traffic,Sunny,During Event,No
+Water Bottle,"Holloway, Lamb and Wilson",PowderBlue,Gym Locker Room,01-04-2023,16-03-2023,Sporting Goods,19-03-2023,First Time Reporter,None,Low,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,No
+Umbrella,-,Green,Bus Stop,11-02-2024,07-02-2024,Electronics,07-02-2024,First Time Reporter,Housekeeping,High,Damaged,Covered,High Traffic,Rainy,During Event,Yes
+Charger,Chan PLC,DarkSalmon,Classroom 204,11-04-2024,10-04-2024,Books,11-04-2024,Repeat Reporter,Housekeeping,High,Good,Covered,Low Traffic,Sunny,Normal Day,Yes
+Keys,-,Lime,Science Building,03-12-2023,04-11-2023,Sporting Goods,14-11-2023,Repeat Reporter,Housekeeping,Medium,Good,Not Covered,Low Traffic,Snowy,During Event,Yes
+Umbrella,-,Aqua,Quad,31-07-2023,13-07-2023,Electronics,29-07-2023,First Time Reporter,Security,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,No
+Tablet,"Walker, Jones and Mclean",Ivory,Dormitory Lounge,08-10-2024,12-09-2024,Clothing,30-09-2024,First Time Reporter,None,Low,Damaged,Covered,High Traffic,Snowy,Normal Day,Yes
+Tablet,"Johnson, Wilcox and Campbell",MediumVioletRed,Outdoor Amphitheater,19-08-2023,13-08-2023,Sporting Goods,19-08-2023,Repeat Reporter,Security,High,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Tablet,-,Chocolate,Library Study Room,12-03-2023,11-03-2023,Electronics,12-03-2023,First Time Reporter,Housekeeping,Low,Good,Covered,High Traffic,Snowy,Normal Day,Yes
+Charger,"Hall, Martinez and Little",CadetBlue,Coffee Shop,20-05-2024,07-05-2024,Sporting Goods,09-05-2024,First Time Reporter,None,Low,Good,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Earbuds,-,DarkOrange,Basketball Court,19-02-2023,20-01-2023,Personal Accessories,04-02-2023,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Sunny,During Event,Yes
+Phone Charger,-,MediumSeaGreen,Park,17-07-2023,26-06-2023,Books,11-07-2023,Repeat Reporter,None,High,Damaged,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Keys,-,DarkViolet,Stadium Bleachers,16-07-2024,25-06-2024,Electronics,08-07-2024,Repeat Reporter,Security,Low,Excellent,Not Covered,High Traffic,Rainy,During Event,Yes
+Water Bottle,Russell-Hamilton,Linen,Common Area,15-07-2023,13-07-2023,Sporting Goods,15-07-2023,First Time Reporter,Housekeeping,High,Excellent,Covered,Low Traffic,Rainy,During Event,Yes
+Laptop,Smith-Pierce,Khaki,Fitness Center,17-10-2024,12-10-2024,Clothing,15-10-2024,Repeat Reporter,Security,Medium,Damaged,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Umbrella,Herrera Group,SeaGreen,Cafeteria,10-12-2023,08-12-2023,Clothing,10-12-2023,First Time Reporter,Information Desk,Low,Good,Covered,High Traffic,Cloudy,During Event,Yes
+Hat,-,DimGray,Skate Park,09-09-2023,27-08-2023,Clothing,09-09-2023,Repeat Reporter,Housekeeping,High,Excellent,Covered,High Traffic,Cloudy,Normal Day,No
+Watch,-,OldLace,Library Stacks,04-09-2024,05-08-2024,Electronics,01-09-2024,Repeat Reporter,Information Desk,Medium,Excellent,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Notebook,-,MistyRose,Art Studio,08-01-2023,29-12-2022,Sporting Goods,05-01-2023,Repeat Reporter,None,High,Good,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Charger,"Stevens, Norris and Martin",LightSkyBlue,Student Lounge,12-09-2024,25-08-2024,Clothing,03-09-2024,Repeat Reporter,Housekeeping,High,Damaged,Not Covered,Low Traffic,Sunny,Normal Day,No
+Wallet,-,Aquamarine,Auditorium,09-04-2023,19-03-2023,Electronics,08-04-2023,Repeat Reporter,Security,High,Excellent,Not Covered,High Traffic,Snowy,During Event,Yes
+Laptop,Mendez-Davis,DeepPink,Bus Station,12-04-2024,05-04-2024,Electronics,07-04-2024,Repeat Reporter,None,Medium,Good,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Scarf,-,Orchid,Soccer Field,08-02-2024,09-01-2024,Electronics,10-01-2024,Repeat Reporter,None,Low,Excellent,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Phone Charger,-,Bisque,Chemistry Lab,03-09-2023,08-08-2023,Electronics,28-08-2023,Repeat Reporter,Security,Low,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Jacket,Hughes-Mcbride,Orange,Outdoor Concert Venue,10-07-2023,15-06-2023,Personal Accessories,29-06-2023,First Time Reporter,Information Desk,High,Excellent,Covered,Low Traffic,Sunny,During Event,Yes
+ID Card,-,DeepSkyBlue,Study Lounge,19-08-2023,27-07-2023,Books,08-08-2023,First Time Reporter,Security,High,Good,Covered,Low Traffic,Snowy,During Event,Yes
+Backpack,-,SeaGreen,Beach,18-01-2024,20-12-2023,Electronics,03-01-2024,Repeat Reporter,Information Desk,Medium,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Watch,"Williams, Allen and Morris",BurlyWood,Dormitory Hallway,11-03-2024,12-02-2024,Personal Accessories,11-03-2024,Repeat Reporter,Housekeeping,Medium,Good,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Earbuds,-,PaleVioletRed,Lecture Hall Lobby,10-08-2024,05-08-2024,Electronics,08-08-2024,First Time Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Sunny,During Event,No
+Notebook,-,PeachPuff,Bookstore,01-01-2023,10-12-2022,Clothing,30-12-2022,First Time Reporter,None,Medium,Good,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Umbrella,Hudson Inc,HotPink,Music Studio,01-05-2023,18-04-2023,Sporting Goods,27-04-2023,Repeat Reporter,Housekeeping,Low,Damaged,Not Covered,Moderate Traffic,Snowy,Normal Day,No
+ID Card,Murphy Ltd,DarkSalmon,Computer Lab,16-08-2023,02-08-2023,Clothing,15-08-2023,First Time Reporter,Security,Medium,Damaged,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Water Bottle,-,PowderBlue,Botanical Garden,04-10-2024,12-09-2024,Books,15-09-2024,First Time Reporter,Housekeeping,Medium,Damaged,Not Covered,High Traffic,Rainy,Normal Day,No
+Coffee Mug,-,DimGray,Theme Park Entrance,19-09-2024,16-09-2024,Personal Accessories,19-09-2024,Repeat Reporter,Housekeeping,Low,Damaged,Covered,Low Traffic,Rainy,During Event,Yes
+Laptop,Atkinson-Underwood,Chartreuse,Shopping Mall,14-06-2023,21-05-2023,Books,29-05-2023,Repeat Reporter,None,Low,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Wallet,-,PowderBlue,Rooftop Bar,24-08-2023,30-07-2023,Electronics,18-08-2023,First Time Reporter,Information Desk,Medium,Good,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Watch,Gordon-Howard,LimeGreen,Gym,14-09-2024,31-08-2024,Clothing,12-09-2024,Repeat Reporter,Information Desk,High,Damaged,Covered,High Traffic,Snowy,During Event,Yes
+Wallet,Liu and Sons,Olive,Ice Skating Rink,05-02-2023,10-01-2023,Clothing,30-01-2023,First Time Reporter,Housekeeping,High,Excellent,Covered,Low Traffic,Rainy,Normal Day,No
+Phone Charger,Perez-Greene,LightSkyBlue,Student Center,22-03-2023,24-02-2023,Sporting Goods,12-03-2023,Repeat Reporter,Housekeeping,Low,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+ID Card,-,LightSeaGreen,Coffee Shop Patio,12-06-2023,01-06-2023,Books,06-06-2023,Repeat Reporter,Information Desk,Medium,Good,Covered,High Traffic,Rainy,During Event,Yes
+Charger,"Briggs, Sanders and Benitez",Fuchsia,Rooftop Pool,19-10-2024,09-10-2024,Electronics,17-10-2024,Repeat Reporter,Housekeeping,High,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Umbrella,-,SeaShell,Campus Trail,08-09-2024,13-08-2024,Electronics,14-08-2024,Repeat Reporter,Security,Low,Good,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+ID Card,-,LightGoldenRodYellow,Stadium Stands,27-06-2024,28-05-2024,Personal Accessories,27-06-2024,Repeat Reporter,Information Desk,Low,Damaged,Covered,High Traffic,Rainy,Normal Day,No
+Backpack,-,CornflowerBlue,Study Lounge,02-05-2023,23-04-2023,Clothing,01-05-2023,Repeat Reporter,None,Low,Good,Covered,Moderate Traffic,Sunny,During Event,No
+Charger,-,MediumPurple,Library,11-07-2023,11-06-2023,Sporting Goods,27-06-2023,First Time Reporter,None,Medium,Good,Not Covered,High Traffic,Sunny,Normal Day,No
+Tablet,Elliott PLC,Sienna,Park,19-06-2024,23-05-2024,Books,07-06-2024,First Time Reporter,None,Medium,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Necklace,Blankenship and Sons,Magenta,Student Union,28-04-2023,11-04-2023,Clothing,18-04-2023,First Time Reporter,None,High,Excellent,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Book,-,Crimson,Bus Stop,27-07-2023,04-07-2023,Electronics,25-07-2023,First Time Reporter,Security,Low,Good,Covered,Low Traffic,Sunny,Normal Day,No
+Keys,Waters-Griffin,SteelBlue,Cafeteria,24-08-2023,16-08-2023,Personal Accessories,19-08-2023,First Time Reporter,Housekeeping,High,Good,Covered,High Traffic,Sunny,Normal Day,Yes
+Laptop,Sanchez-Gordon,MediumSeaGreen,Bus Stop,14-03-2023,01-03-2023,Electronics,06-03-2023,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Cloudy,During Event,No
+Phone Charger,Garcia-Brown,Aqua,Cafeteria,12-10-2024,04-10-2024,Sporting Goods,04-10-2024,First Time Reporter,Security,High,Excellent,Not Covered,Low Traffic,Sunny,During Event,No
+Headphones,Archer-Gomez,AliceBlue,Library Study Room,29-05-2024,23-05-2024,Sporting Goods,26-05-2024,Repeat Reporter,Information Desk,Low,Damaged,Covered,Low Traffic,Rainy,Normal Day,No
+Watch,-,DarkKhaki,Student Union,30-09-2023,12-09-2023,Books,16-09-2023,First Time Reporter,Information Desk,High,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Phone Charger,-,LightSeaGreen,Outdoor Patio,24-10-2023,10-10-2023,Clothing,17-10-2023,First Time Reporter,None,Low,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Coffee Mug,Tyler and Sons,GreenYellow,Computer Lab,04-09-2023,28-08-2023,Books,29-08-2023,Repeat Reporter,None,Low,Excellent,Covered,High Traffic,Sunny,During Event,No
+Wallet,-,PapayaWhip,Library,10-11-2023,04-11-2023,Sporting Goods,07-11-2023,First Time Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Rainy,During Event,Yes
+Jacket,-,Tomato,Gym,05-05-2024,22-04-2024,Personal Accessories,25-04-2024,Repeat Reporter,Information Desk,Low,Excellent,Covered,High Traffic,Rainy,During Event,Yes
+Tumbler,-,Cyan,Quad,14-07-2024,03-07-2024,Clothing,07-07-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Necklace,Green Inc,LightPink,Cafeteria,09-09-2023,02-09-2023,Personal Accessories,03-09-2023,Repeat Reporter,Information Desk,Medium,Damaged,Covered,High Traffic,Sunny,During Event,No
+Tablet,Johnson and Sons,LightSlateGray,Baseball Field,18-02-2023,27-01-2023,Sporting Goods,14-02-2023,Repeat Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Sunglasses,-,DarkRed,Football Stadium,21-07-2024,05-07-2024,Personal Accessories,16-07-2024,First Time Reporter,None,Low,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Headphones,Sanchez LLC,GoldenRod,Shopping Mall,04-07-2023,14-06-2023,Sporting Goods,27-06-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,High Traffic,Sunny,Normal Day,Yes
+Headphones,-,Azure,Rooftop Bar,03-01-2024,05-12-2023,Clothing,12-12-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Laptop,-,Olive,Library Stacks,19-06-2023,30-05-2023,Sporting Goods,02-06-2023,First Time Reporter,None,Medium,Damaged,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Tumbler,"Brooks, Peck and Sawyer",AntiqueWhite,Bus Ride,08-12-2023,17-11-2023,Books,26-11-2023,Repeat Reporter,Security,Low,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Necklace,-,RoyalBlue,Coffee Shop,16-04-2023,21-03-2023,Personal Accessories,15-04-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Sunny,Normal Day,Yes
+Earbuds,Kelly-Mendoza,AliceBlue,Park,27-06-2023,07-06-2023,Clothing,15-06-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,No
+Hat,-,Fuchsia,Classroom 303,01-01-2023,08-12-2022,Clothing,01-01-2023,Repeat Reporter,Security,Low,Good,Covered,Low Traffic,Snowy,Normal Day,No
+Tumbler,-,ForestGreen,Student Lounge,19-07-2023,16-07-2023,Books,16-07-2023,Repeat Reporter,Information Desk,High,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+ID Card,-,BlueViolet,Dormitory Lounge,08-09-2024,14-08-2024,Books,07-09-2024,First Time Reporter,Information Desk,Medium,Damaged,Covered,Low Traffic,Snowy,During Event,No
+Notebook,-,BlueViolet,Soccer Field,22-03-2024,28-02-2024,Personal Accessories,21-03-2024,First Time Reporter,Housekeeping,High,Damaged,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Notebook,"Gallegos, Baxter and Williams",PaleGreen,Science Building,19-10-2023,17-10-2023,Sporting Goods,17-10-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Backpack,-,Thistle,Hiking Trail,17-04-2024,26-03-2024,Books,15-04-2024,First Time Reporter,Security,Low,Excellent,Not Covered,High Traffic,Cloudy,During Event,No
+Necklace,-,PapayaWhip,Student Center,15-07-2023,09-07-2023,Personal Accessories,14-07-2023,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Laptop,-,SkyBlue,Outdoor Concert Venue,19-07-2023,09-07-2023,Clothing,11-07-2023,Repeat Reporter,None,Low,Excellent,Not Covered,High Traffic,Snowy,During Event,No
+Backpack,-,DarkOliveGreen,Library,15-01-2023,01-01-2023,Books,01-01-2023,First Time Reporter,Information Desk,Low,Excellent,Covered,Low Traffic,Rainy,Normal Day,No
+Tumbler,-,Yellow,Classroom 201,05-07-2024,21-06-2024,Personal Accessories,26-06-2024,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Cloudy,During Event,Yes
+Necklace,-,GoldenRod,Library Study Room,21-02-2023,18-02-2023,Clothing,18-02-2023,Repeat Reporter,Information Desk,Low,Good,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Notebook,-,LightSteelBlue,Bus Stop,30-11-2024,28-11-2024,Electronics,28-11-2024,Repeat Reporter,None,High,Damaged,Covered,Low Traffic,Cloudy,During Event,No
+Notebook,-,MediumBlue,Beach,27-08-2023,26-08-2023,Electronics,26-08-2023,Repeat Reporter,None,Low,Good,Covered,Low Traffic,Snowy,Normal Day,Yes
+Headphones,"Alvarez, Waters and Sanchez",MediumSeaGreen,Study Lounge,18-06-2024,24-05-2024,Sporting Goods,31-05-2024,First Time Reporter,Housekeeping,High,Good,Covered,Low Traffic,Snowy,During Event,No
+Cell Phone,-,Yellow,Coffee Shop,20-05-2023,20-04-2023,Personal Accessories,04-05-2023,Repeat Reporter,Security,Low,Good,Covered,Low Traffic,Snowy,During Event,No
+ID Card,-,MediumSeaGreen,Library Entrance,29-01-2024,19-01-2024,Personal Accessories,20-01-2024,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,High Traffic,Snowy,During Event,No
+Scarf,-,HotPink,Bookstore,08-10-2023,29-09-2023,Personal Accessories,02-10-2023,Repeat Reporter,Information Desk,High,Good,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Gloves,-,Aquamarine,Gym,29-05-2023,28-05-2023,Clothing,28-05-2023,First Time Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Tumbler,-,Cornsilk,Lecture Hall 104,12-02-2023,05-02-2023,Personal Accessories,06-02-2023,First Time Reporter,Information Desk,High,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Phone Charger,-,DarkMagenta,Student Lounge,18-01-2024,26-12-2023,Personal Accessories,18-01-2024,First Time Reporter,None,Medium,Good,Covered,Moderate Traffic,Sunny,During Event,Yes
+Headphones,-,Green,Trailhead,13-02-2024,06-02-2024,Personal Accessories,11-02-2024,Repeat Reporter,Security,Medium,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+ID Card,-,Navy,Shopping Mall,23-12-2023,19-12-2023,Sporting Goods,23-12-2023,Repeat Reporter,None,Medium,Damaged,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Cell Phone,"Allen, Fowler and Lee",PaleGoldenRod,Library,10-01-2023,20-12-2022,Electronics,08-01-2023,Repeat Reporter,Housekeeping,High,Excellent,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Charger,Reese-Johnson,LightSalmon,Cafeteria,25-01-2024,12-01-2024,Clothing,19-01-2024,Repeat Reporter,Housekeeping,Low,Good,Covered,Low Traffic,Sunny,Normal Day,Yes
+Backpack,Barr and Sons,SlateBlue,Lecture Hall 102,21-10-2023,14-10-2023,Sporting Goods,18-10-2023,First Time Reporter,None,High,Damaged,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Charger,Walker-Woodard,RosyBrown,Student Center,01-09-2023,08-08-2023,Electronics,16-08-2023,First Time Reporter,None,High,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Jacket,Andrews Inc,Lavender,Gym Locker Room,02-04-2024,17-03-2024,Books,23-03-2024,First Time Reporter,Information Desk,High,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+Necklace,-,Pink,Bus Stop,05-05-2024,29-04-2024,Clothing,30-04-2024,First Time Reporter,None,Medium,Excellent,Not Covered,Moderate Traffic,Cloudy,Normal Day,No
+Jacket,-,Beige,Classroom 204,24-05-2023,30-04-2023,Books,13-05-2023,First Time Reporter,None,Low,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Notebook,-,Orange,Science Building,11-02-2023,14-01-2023,Sporting Goods,11-02-2023,First Time Reporter,Information Desk,Medium,Good,Covered,High Traffic,Snowy,During Event,Yes
+Gloves,Cox Ltd,LightSlateGray,Quad,27-08-2024,19-08-2024,Electronics,24-08-2024,Repeat Reporter,Housekeeping,Low,Damaged,Not Covered,High Traffic,Rainy,During Event,Yes
+Hat,-,LimeGreen,Dormitory Lounge,28-05-2023,01-05-2023,Books,10-05-2023,Repeat Reporter,Information Desk,Medium,Good,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Gloves,-,YellowGreen,Outdoor Amphitheater,28-01-2024,11-01-2024,Personal Accessories,18-01-2024,First Time Reporter,Security,Medium,Good,Covered,Low Traffic,Rainy,During Event,Yes
+Water Bottle,"Bennett, Booker and Jones",Gray,Library Study Room,05-03-2023,20-02-2023,Sporting Goods,23-02-2023,Repeat Reporter,Security,Low,Excellent,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Watch,-,PowderBlue,Coffee Shop,05-09-2024,30-08-2024,Personal Accessories,05-09-2024,First Time Reporter,Housekeeping,High,Damaged,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Tablet,-,GreenYellow,Basketball Court,21-07-2024,07-07-2024,Clothing,11-07-2024,First Time Reporter,None,Medium,Damaged,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Hat,Cruz and Sons,LightSteelBlue,Park,29-08-2023,15-08-2023,Sporting Goods,19-08-2023,Repeat Reporter,Information Desk,Low,Excellent,Covered,Low Traffic,Sunny,Normal Day,Yes
+Charger,Beck-Huffman,LightBlue,Stadium Bleachers,06-04-2023,15-03-2023,Clothing,24-03-2023,Repeat Reporter,Housekeeping,High,Excellent,Not Covered,Low Traffic,Sunny,During Event,Yes
+Hat,-,MediumPurple,Common Area,09-03-2023,27-02-2023,Clothing,09-03-2023,Repeat Reporter,Information Desk,Medium,Excellent,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Backpack,-,MistyRose,Fitness Center,11-04-2023,28-03-2023,Sporting Goods,01-04-2023,First Time Reporter,None,Low,Good,Not Covered,High Traffic,Snowy,During Event,No
+Sunglasses,-,PeachPuff,Cafeteria,03-12-2024,25-11-2024,Sporting Goods,03-12-2024,First Time Reporter,None,High,Damaged,Not Covered,Moderate Traffic,Cloudy,Normal Day,No
+ID Card,Morgan-Johnson,SaddleBrown,Skate Park,30-06-2024,29-06-2024,Personal Accessories,29-06-2024,Repeat Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Laptop,-,LightGray,Library Stacks,11-02-2023,25-01-2023,Clothing,31-01-2023,First Time Reporter,Security,High,Damaged,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Umbrella,-,LightPink,Art Studio,05-01-2024,19-12-2023,Sporting Goods,28-12-2023,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,No
+Notebook,Hopkins and Sons,LightBlue,Student Lounge,24-11-2023,12-11-2023,Electronics,21-11-2023,First Time Reporter,None,Low,Good,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Laptop,"Bell, Ali and Webb",Aquamarine,Auditorium,07-12-2023,27-11-2023,Clothing,30-11-2023,First Time Reporter,None,Medium,Excellent,Covered,Low Traffic,Rainy,During Event,Yes
+Umbrella,Taylor PLC,Silver,Bus Station,15-07-2024,02-07-2024,Books,11-07-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Earbuds,-,HoneyDew,Soccer Field,16-05-2023,28-04-2023,Personal Accessories,09-05-2023,First Time Reporter,Information Desk,High,Good,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Gloves,Casey PLC,Bisque,Chemistry Lab,04-03-2023,24-02-2023,Clothing,04-03-2023,Repeat Reporter,None,High,Damaged,Covered,Moderate Traffic,Snowy,During Event,No
+Hat,-,Peru,Outdoor Concert Venue,29-07-2023,16-07-2023,Books,26-07-2023,First Time Reporter,Housekeeping,Medium,Damaged,Not Covered,Moderate Traffic,Sunny,Normal Day,No
+Keys,Torres-Medina,DarkGray,Study Lounge,20-01-2023,18-01-2023,Electronics,18-01-2023,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Book,-,Indigo,Beach,02-12-2023,08-11-2023,Electronics,08-11-2023,First Time Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Snowy,During Event,Yes
+Charger,-,Aqua,Dormitory Hallway,21-09-2023,23-08-2023,Clothing,26-08-2023,First Time Reporter,Security,Low,Excellent,Covered,Low Traffic,Snowy,During Event,Yes
+Book,"Alvarez, Duncan and Vazquez",MediumSeaGreen,Lecture Hall Lobby,18-11-2023,25-10-2023,Personal Accessories,14-11-2023,Repeat Reporter,None,High,Damaged,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Necklace,-,MediumPurple,Bookstore,10-11-2024,07-11-2024,Electronics,09-11-2024,Repeat Reporter,None,Medium,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Earbuds,-,Lime,Music Studio,10-10-2023,16-09-2023,Sporting Goods,01-10-2023,First Time Reporter,Information Desk,High,Good,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Headphones,Medina Group,MediumSlateBlue,Computer Lab,22-05-2023,29-04-2023,Clothing,05-05-2023,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,High Traffic,Rainy,During Event,No
+Scarf,Jones-Ortiz,LimeGreen,Botanical Garden,06-05-2024,05-05-2024,Books,05-05-2024,First Time Reporter,Information Desk,Low,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Cell Phone,-,Chartreuse,Theme Park Entrance,24-05-2023,09-05-2023,Electronics,20-05-2023,Repeat Reporter,Security,Medium,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Scarf,-,Pink,Shopping Mall,03-08-2024,01-08-2024,Sporting Goods,03-08-2024,First Time Reporter,None,High,Damaged,Not Covered,Low Traffic,Snowy,During Event,No
+Charger,Lopez and Sons,AliceBlue,Rooftop Bar,14-08-2023,28-07-2023,Personal Accessories,09-08-2023,First Time Reporter,None,High,Good,Covered,Low Traffic,Sunny,During Event,No
+Earbuds,Mcmillan-Wilson,HotPink,Gym,20-10-2024,18-10-2024,Personal Accessories,20-10-2024,Repeat Reporter,Security,Low,Good,Covered,High Traffic,Cloudy,During Event,Yes
+Coffee Mug,-,Brown,Ice Skating Rink,10-05-2023,03-05-2023,Sporting Goods,10-05-2023,First Time Reporter,None,High,Damaged,Covered,High Traffic,Rainy,During Event,Yes
+Tablet,-,MediumSlateBlue,Student Center,31-01-2024,10-01-2024,Sporting Goods,20-01-2024,Repeat Reporter,Security,Medium,Good,Covered,High Traffic,Snowy,During Event,Yes
+Wallet,-,LightCyan,Coffee Shop Patio,16-07-2023,03-07-2023,Electronics,15-07-2023,Repeat Reporter,Security,Low,Good,Covered,Low Traffic,Rainy,During Event,Yes
+ID Card,-,MediumTurquoise,Rooftop Pool,11-08-2024,04-08-2024,Books,08-08-2024,First Time Reporter,Information Desk,Medium,Excellent,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Cell Phone,"Jones, White and Brown",DarkOrange,Campus Trail,26-08-2024,21-08-2024,Personal Accessories,22-08-2024,First Time Reporter,Security,Low,Damaged,Not Covered,High Traffic,Rainy,Normal Day,No
+Gloves,-,CornflowerBlue,Stadium Stands,10-12-2024,13-11-2024,Books,01-12-2024,Repeat Reporter,Housekeeping,Low,Excellent,Covered,High Traffic,Sunny,Normal Day,Yes
+Backpack,-,DarkOliveGreen,Study Lounge,15-05-2023,08-05-2023,Books,13-05-2023,Repeat Reporter,Security,Medium,Good,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Laptop,-,DarkOliveGreen,Library,21-04-2024,19-04-2024,Sporting Goods,21-04-2024,First Time Reporter,Security,Low,Good,Covered,Low Traffic,Sunny,Normal Day,Yes
+Hat,-,Navy,Park,08-03-2024,07-03-2024,Sporting Goods,08-03-2024,First Time Reporter,Security,High,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+ID Card,"Collier, Mason and Davis",LightSalmon,Student Union,08-05-2023,25-04-2023,Electronics,29-04-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,High Traffic,Cloudy,Normal Day,No
+Wallet,Rocha-Johnston,Salmon,Bus Stop,22-05-2024,09-05-2024,Sporting Goods,11-05-2024,Repeat Reporter,None,High,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,No
+Laptop,-,OrangeRed,Cafeteria,03-02-2024,16-01-2024,Sporting Goods,18-01-2024,First Time Reporter,Housekeeping,Low,Good,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Notebook,Simmons Inc,LightSlateGray,Bus Stop,14-04-2023,05-04-2023,Electronics,14-04-2023,First Time Reporter,None,High,Excellent,Covered,Low Traffic,Snowy,During Event,Yes
+Umbrella,-,Beige,Cafeteria,21-08-2024,20-08-2024,Books,21-08-2024,First Time Reporter,Security,High,Excellent,Not Covered,High Traffic,Sunny,During Event,Yes
+Laptop,"Johnson, Wilkins and Daniels",Cornsilk,Library Study Room,28-05-2024,19-05-2024,Sporting Goods,27-05-2024,Repeat Reporter,Security,Low,Good,Covered,Moderate Traffic,Snowy,During Event,Yes
+Headphones,-,LightGray,Student Union,23-12-2024,21-12-2024,Clothing,21-12-2024,First Time Reporter,Information Desk,Medium,Good,Not Covered,High Traffic,Cloudy,During Event,Yes
+Keys,"Miller, Ochoa and Davis",LightSlateGray,Outdoor Patio,09-02-2024,04-02-2024,Books,04-02-2024,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Charger,Little PLC,Tan,Computer Lab,01-10-2024,09-09-2024,Sporting Goods,22-09-2024,First Time Reporter,Housekeeping,Low,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Hat,Smith PLC,Peru,Library,16-01-2024,31-12-2023,Personal Accessories,05-01-2024,First Time Reporter,Information Desk,Low,Good,Covered,High Traffic,Rainy,During Event,Yes
+Tablet,"Anderson, Adams and Jenkins",DarkOliveGreen,Gym,08-11-2024,11-10-2024,Sporting Goods,11-10-2024,First Time Reporter,Housekeeping,Low,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Backpack,"Warner, Taylor and Andrews",DarkSalmon,Quad,01-03-2024,11-02-2024,Personal Accessories,27-02-2024,Repeat Reporter,Information Desk,Low,Excellent,Covered,High Traffic,Cloudy,During Event,Yes
+Headphones,-,Plum,Cafeteria,16-07-2024,27-06-2024,Sporting Goods,28-06-2024,Repeat Reporter,None,High,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Scarf,-,White,Baseball Field,23-04-2023,20-04-2023,Sporting Goods,22-04-2023,Repeat Reporter,Housekeeping,Low,Good,Not Covered,Low Traffic,Cloudy,During Event,Yes
+ID Card,-,DeepPink,Football Stadium,11-10-2024,23-09-2024,Personal Accessories,01-10-2024,Repeat Reporter,None,Low,Excellent,Covered,Moderate Traffic,Snowy,During Event,Yes
+Tablet,"Hinton, Rose and Green",Gainsboro,Shopping Mall,28-08-2023,17-08-2023,Clothing,18-08-2023,First Time Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Rainy,During Event,No
+Phone Charger,-,Blue,Rooftop Bar,14-02-2024,24-01-2024,Books,03-02-2024,Repeat Reporter,Housekeeping,High,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Necklace,"Kim, Dunn and Newman",PeachPuff,Library Stacks,04-12-2024,15-11-2024,Clothing,29-11-2024,First Time Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Sunny,During Event,Yes
+Backpack,-,OldLace,Bus Ride,15-10-2023,14-10-2023,Sporting Goods,14-10-2023,First Time Reporter,Housekeeping,High,Excellent,Not Covered,Low Traffic,Rainy,During Event,Yes
+Scarf,Newton Ltd,MistyRose,Coffee Shop,30-07-2023,19-07-2023,Sporting Goods,27-07-2023,Repeat Reporter,None,Low,Good,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Earbuds,Jacobs Ltd,Salmon,Park,27-02-2023,19-02-2023,Sporting Goods,23-02-2023,First Time Reporter,Security,Low,Damaged,Covered,Low Traffic,Sunny,Normal Day,Yes
+Notebook,"Scott, Chavez and Brown",ForestGreen,Classroom 303,16-12-2024,13-12-2024,Clothing,15-12-2024,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Cell Phone,-,Silver,Student Lounge,02-04-2023,09-03-2023,Personal Accessories,25-03-2023,Repeat Reporter,None,Low,Good,Not Covered,High Traffic,Sunny,During Event,No
+Headphones,Gallagher-Knight,Purple,Dormitory Lounge,19-04-2023,29-03-2023,Books,10-04-2023,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Rainy,During Event,Yes
+Notebook,-,Beige,Soccer Field,04-04-2024,08-03-2024,Books,28-03-2024,Repeat Reporter,None,High,Excellent,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Phone Charger,"Patel, Harrison and Henson",Snow,Science Building,05-01-2024,18-12-2023,Electronics,22-12-2023,First Time Reporter,Information Desk,Low,Damaged,Covered,Low Traffic,Cloudy,Normal Day,Yes
+ID Card,Martinez-Mendoza,LimeGreen,Hiking Trail,08-11-2023,13-10-2023,Books,07-11-2023,First Time Reporter,Information Desk,Low,Damaged,Not Covered,High Traffic,Cloudy,During Event,Yes
+Earbuds,Johnson Inc,DarkRed,Student Center,05-12-2024,22-11-2024,Books,01-12-2024,Repeat Reporter,Information Desk,High,Damaged,Covered,High Traffic,Cloudy,Normal Day,Yes
+Watch,-,Red,Outdoor Concert Venue,30-03-2023,08-03-2023,Electronics,28-03-2023,Repeat Reporter,Security,High,Excellent,Not Covered,High Traffic,Snowy,During Event,No
+Laptop,Porter-Smith,SandyBrown,Library,28-08-2023,19-08-2023,Electronics,21-08-2023,First Time Reporter,Housekeeping,Medium,Good,Covered,Moderate Traffic,Sunny,During Event,Yes
+Hat,-,GhostWhite,Classroom 201,06-07-2024,01-07-2024,Sporting Goods,01-07-2024,First Time Reporter,Information Desk,High,Good,Not Covered,High Traffic,Snowy,During Event,No
+ID Card,-,Crimson,Library Study Room,15-01-2024,22-12-2023,Personal Accessories,22-12-2023,Repeat Reporter,Security,High,Damaged,Covered,Low Traffic,Cloudy,Normal Day,No
+ID Card,Walker and Sons,SaddleBrown,Bus Stop,08-05-2024,15-04-2024,Electronics,26-04-2024,First Time Reporter,None,Low,Good,Covered,High Traffic,Snowy,Normal Day,Yes
+Keys,-,Pink,Beach,10-10-2024,03-10-2024,Clothing,05-10-2024,First Time Reporter,None,High,Excellent,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+ID Card,Jensen Ltd,Gold,Study Lounge,04-10-2024,28-09-2024,Clothing,28-09-2024,First Time Reporter,Information Desk,High,Excellent,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Tumbler,Suarez PLC,MediumSpringGreen,Coffee Shop,21-06-2023,29-05-2023,Personal Accessories,19-06-2023,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Low Traffic,Rainy,During Event,Yes
+Wallet,-,Olive,Library Entrance,20-09-2023,02-09-2023,Personal Accessories,12-09-2023,Repeat Reporter,Housekeeping,Low,Excellent,Covered,Moderate Traffic,Rainy,During Event,Yes
+Book,-,Teal,Bookstore,11-05-2024,04-05-2024,Personal Accessories,09-05-2024,First Time Reporter,Information Desk,Low,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Keys,-,MediumSlateBlue,Gym,06-01-2023,04-01-2023,Clothing,04-01-2023,Repeat Reporter,Security,Medium,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Water Bottle,Thornton-Pope,LightSteelBlue,Lecture Hall 104,28-02-2024,24-02-2024,Clothing,26-02-2024,Repeat Reporter,None,High,Damaged,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Cell Phone,-,Gray,Student Lounge,22-02-2024,27-01-2024,Electronics,31-01-2024,First Time Reporter,Housekeeping,High,Good,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Scarf,-,Aqua,Trailhead,04-02-2023,03-02-2023,Sporting Goods,04-02-2023,Repeat Reporter,Information Desk,Medium,Damaged,Covered,Low Traffic,Rainy,Normal Day,Yes
+Necklace,-,IndianRed,Shopping Mall,28-03-2024,29-02-2024,Books,12-03-2024,Repeat Reporter,None,High,Excellent,Covered,Moderate Traffic,Snowy,During Event,No
+Backpack,-,DarkSeaGreen,Library,09-10-2023,22-09-2023,Electronics,02-10-2023,Repeat Reporter,Security,Low,Excellent,Not Covered,High Traffic,Cloudy,During Event,Yes
+Book,-,AliceBlue,Cafeteria,14-05-2024,20-04-2024,Books,28-04-2024,First Time Reporter,Housekeeping,Low,Excellent,Covered,High Traffic,Snowy,During Event,Yes
+Headphones,-,DeepPink,Lecture Hall 102,19-11-2024,29-10-2024,Clothing,13-11-2024,First Time Reporter,None,Low,Excellent,Covered,Moderate Traffic,Sunny,During Event,Yes
+Tablet,Cain Ltd,Crimson,Student Center,28-11-2023,23-11-2023,Personal Accessories,23-11-2023,First Time Reporter,None,Low,Damaged,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Jacket,-,AntiqueWhite,Gym Locker Room,20-03-2023,15-03-2023,Electronics,20-03-2023,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,High Traffic,Sunny,Normal Day,No
+Book,Parker LLC,Tomato,Bus Stop,03-08-2023,06-07-2023,Clothing,01-08-2023,First Time Reporter,Security,Medium,Good,Covered,Low Traffic,Snowy,Normal Day,No
+Necklace,-,Salmon,Classroom 204,29-11-2023,07-11-2023,Personal Accessories,26-11-2023,First Time Reporter,None,Low,Damaged,Not Covered,High Traffic,Rainy,During Event,No
+Book,Whitney Ltd,FireBrick,Science Building,07-04-2024,10-03-2024,Personal Accessories,29-03-2024,Repeat Reporter,Housekeeping,Low,Good,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Coffee Mug,Bernard-Wright,DarkMagenta,Quad,02-03-2024,11-02-2024,Clothing,15-02-2024,First Time Reporter,Security,Medium,Good,Not Covered,Low Traffic,Sunny,During Event,Yes
+Scarf,Peters-Clements,FireBrick,Dormitory Lounge,24-07-2024,30-06-2024,Clothing,21-07-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,Low Traffic,Rainy,Normal Day,No
+Cell Phone,-,Coral,Outdoor Amphitheater,02-07-2024,09-06-2024,Books,14-06-2024,First Time Reporter,Housekeeping,Low,Good,Covered,High Traffic,Snowy,During Event,No
+Water Bottle,Curtis Group,LightSeaGreen,Library Study Room,16-12-2024,24-11-2024,Books,08-12-2024,Repeat Reporter,Housekeeping,Medium,Good,Not Covered,Low Traffic,Snowy,During Event,No
+Watch,-,Tan,Coffee Shop,23-04-2023,15-04-2023,Sporting Goods,15-04-2023,Repeat Reporter,None,High,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Cell Phone,-,DarkSlateBlue,Basketball Court,21-09-2023,12-09-2023,Clothing,15-09-2023,First Time Reporter,None,High,Damaged,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Cell Phone,-,Maroon,Park,24-01-2024,01-01-2024,Clothing,03-01-2024,First Time Reporter,None,High,Damaged,Covered,Low Traffic,Rainy,Normal Day,No
+Tablet,-,GreenYellow,Stadium Bleachers,03-03-2024,04-02-2024,Books,14-02-2024,Repeat Reporter,Information Desk,Medium,Good,Not Covered,High Traffic,Cloudy,During Event,Yes
+Sunglasses,Guerrero-Moore,Maroon,Common Area,23-12-2023,17-12-2023,Books,20-12-2023,First Time Reporter,Information Desk,High,Damaged,Covered,Moderate Traffic,Sunny,Normal Day,No
+Laptop,-,RosyBrown,Fitness Center,31-01-2023,14-01-2023,Personal Accessories,19-01-2023,Repeat Reporter,Security,Low,Damaged,Covered,Moderate Traffic,Sunny,Normal Day,No
+Watch,-,LawnGreen,Cafeteria,13-02-2023,26-01-2023,Personal Accessories,02-02-2023,First Time Reporter,Security,Medium,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Necklace,-,White,Skate Park,21-05-2024,03-05-2024,Clothing,08-05-2024,Repeat Reporter,Security,Low,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,No
+Coffee Mug,-,MediumBlue,Library Stacks,03-05-2024,28-04-2024,Personal Accessories,28-04-2024,Repeat Reporter,Security,High,Damaged,Covered,High Traffic,Snowy,During Event,No
+Tablet,Hernandez and Sons,DimGray,Art Studio,07-03-2023,04-03-2023,Sporting Goods,05-03-2023,Repeat Reporter,Security,Low,Damaged,Covered,Low Traffic,Rainy,Normal Day,Yes
+Headphones,-,MediumVioletRed,Student Lounge,27-01-2024,04-01-2024,Personal Accessories,11-01-2024,Repeat Reporter,Security,Medium,Damaged,Not Covered,Low Traffic,Snowy,During Event,No
+Coffee Mug,-,Gainsboro,Auditorium,03-03-2023,28-02-2023,Clothing,28-02-2023,First Time Reporter,Information Desk,High,Good,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Headphones,-,DarkMagenta,Bus Station,21-01-2023,04-01-2023,Clothing,08-01-2023,First Time Reporter,Information Desk,High,Excellent,Not Covered,Low Traffic,Sunny,Normal Day,No
+Wallet,Gibson-Ruiz,MediumSeaGreen,Soccer Field,28-10-2023,07-10-2023,Sporting Goods,22-10-2023,First Time Reporter,Security,Low,Excellent,Not Covered,Low Traffic,Snowy,During Event,Yes
+Watch,"Ortiz, Williams and Edwards",PaleTurquoise,Chemistry Lab,16-06-2024,06-06-2024,Personal Accessories,16-06-2024,First Time Reporter,Information Desk,High,Damaged,Not Covered,High Traffic,Rainy,During Event,No
+Phone Charger,-,Plum,Outdoor Concert Venue,21-09-2024,18-09-2024,Books,18-09-2024,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Sunny,During Event,Yes
+Necklace,-,Orchid,Study Lounge,27-02-2023,25-02-2023,Books,27-02-2023,Repeat Reporter,None,Medium,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Keys,-,Navy,Beach,10-03-2024,21-02-2024,Electronics,06-03-2024,First Time Reporter,Information Desk,Low,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,No
+Wallet,Hill Group,MediumBlue,Dormitory Hallway,07-02-2024,08-01-2024,Clothing,18-01-2024,First Time Reporter,None,Medium,Damaged,Not Covered,Low Traffic,Sunny,During Event,Yes
+Backpack,-,Cornsilk,Lecture Hall Lobby,16-09-2024,23-08-2024,Books,10-09-2024,Repeat Reporter,Housekeeping,Low,Good,Covered,Low Traffic,Rainy,During Event,Yes
+Backpack,Harper-Paul,MediumOrchid,Bookstore,17-01-2024,25-12-2023,Clothing,13-01-2024,First Time Reporter,None,Low,Good,Not Covered,Low Traffic,Snowy,During Event,No
+Sunglasses,Williams-Maynard,Ivory,Music Studio,19-08-2024,03-08-2024,Personal Accessories,07-08-2024,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Cloudy,Normal Day,No
+Coffee Mug,-,HoneyDew,Computer Lab,29-08-2023,18-08-2023,Sporting Goods,22-08-2023,Repeat Reporter,Security,Low,Good,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Coffee Mug,-,DarkCyan,Botanical Garden,20-11-2023,05-11-2023,Personal Accessories,06-11-2023,Repeat Reporter,None,High,Good,Covered,Low Traffic,Rainy,During Event,Yes
+Necklace,Dyer-Estrada,DarkMagenta,Theme Park Entrance,27-12-2023,03-12-2023,Books,20-12-2023,First Time Reporter,Information Desk,Low,Damaged,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Tumbler,-,Beige,Shopping Mall,21-07-2023,23-06-2023,Books,24-06-2023,First Time Reporter,Security,High,Good,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Cell Phone,"Bell, Stewart and Diaz",Silver,Rooftop Bar,22-09-2023,27-08-2023,Electronics,15-09-2023,Repeat Reporter,None,Medium,Good,Not Covered,Low Traffic,Snowy,During Event,Yes
+Tablet,-,MediumPurple,Gym,08-11-2024,16-10-2024,Personal Accessories,19-10-2024,First Time Reporter,Security,Low,Good,Not Covered,High Traffic,Sunny,During Event,Yes
+ID Card,"Garcia, Murphy and Bryant",DarkSlateGray,Ice Skating Rink,22-06-2024,04-06-2024,Books,12-06-2024,Repeat Reporter,Security,High,Excellent,Covered,Moderate Traffic,Sunny,Normal Day,No
+Water Bottle,-,PaleGreen,Student Center,01-05-2023,10-04-2023,Sporting Goods,12-04-2023,First Time Reporter,Security,Low,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,No
+Laptop,Fuller-Martinez,Moccasin,Coffee Shop Patio,13-08-2024,24-07-2024,Sporting Goods,13-08-2024,First Time Reporter,Security,Low,Damaged,Covered,Moderate Traffic,Cloudy,During Event,No
+Umbrella,-,MediumAquaMarine,Rooftop Pool,08-11-2024,06-11-2024,Electronics,06-11-2024,Repeat Reporter,Housekeeping,High,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Necklace,-,MediumAquaMarine,Campus Trail,02-11-2023,04-10-2023,Clothing,27-10-2023,First Time Reporter,None,Low,Damaged,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Umbrella,-,Cyan,Stadium Stands,09-12-2023,15-11-2023,Clothing,15-11-2023,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Tablet,-,LightPink,Study Lounge,31-07-2023,20-07-2023,Electronics,22-07-2023,Repeat Reporter,Housekeeping,Low,Damaged,Not Covered,Low Traffic,Rainy,During Event,Yes
+Wallet,Diaz PLC,BurlyWood,Library,18-04-2024,02-04-2024,Clothing,03-04-2024,First Time Reporter,Security,Low,Excellent,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Coffee Mug,Mason-Fischer,DarkGoldenRod,Park,22-01-2023,01-01-2023,Sporting Goods,14-01-2023,Repeat Reporter,Information Desk,Low,Excellent,Covered,Low Traffic,Rainy,During Event,No
+Cell Phone,Ross-Chambers,Yellow,Student Union,22-08-2023,14-08-2023,Personal Accessories,20-08-2023,Repeat Reporter,Security,Low,Damaged,Covered,High Traffic,Cloudy,During Event,Yes
+Necklace,"Ibarra, Lopez and Krueger",DarkSalmon,Bus Stop,06-02-2024,19-01-2024,Books,21-01-2024,First Time Reporter,Information Desk,Medium,Good,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Umbrella,-,Lavender,Cafeteria,26-01-2023,20-01-2023,Electronics,20-01-2023,Repeat Reporter,Information Desk,High,Excellent,Not Covered,High Traffic,Sunny,During Event,Yes
+Wallet,-,OldLace,Bus Stop,10-08-2023,06-08-2023,Personal Accessories,07-08-2023,First Time Reporter,Security,High,Damaged,Not Covered,High Traffic,Snowy,Normal Day,No
+Umbrella,Greene-Byrd,FloralWhite,Cafeteria,15-12-2023,29-11-2023,Sporting Goods,09-12-2023,First Time Reporter,Housekeeping,Low,Excellent,Covered,High Traffic,Snowy,During Event,Yes
+Wallet,"Wright, Fox and Schwartz",Navy,Library Study Room,20-10-2024,30-09-2024,Electronics,07-10-2024,First Time Reporter,Housekeeping,High,Damaged,Covered,Low Traffic,Rainy,Normal Day,Yes
+Cell Phone,"Johnson, Petty and Davis",White,Student Union,16-06-2024,31-05-2024,Books,01-06-2024,First Time Reporter,None,Medium,Excellent,Not Covered,Low Traffic,Rainy,During Event,Yes
+Laptop,-,Lavender,Outdoor Patio,10-08-2023,01-08-2023,Clothing,07-08-2023,First Time Reporter,Housekeeping,Medium,Damaged,Not Covered,High Traffic,Rainy,During Event,No
+Laptop,"Bright, Tucker and Hall",RoyalBlue,Computer Lab,16-01-2024,06-01-2024,Personal Accessories,16-01-2024,Repeat Reporter,Security,Medium,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Umbrella,Hall-Walters,MediumTurquoise,Library,18-02-2024,28-01-2024,Sporting Goods,14-02-2024,Repeat Reporter,None,High,Damaged,Covered,Low Traffic,Snowy,Normal Day,No
+ID Card,-,Navy,Gym,26-06-2023,20-06-2023,Sporting Goods,22-06-2023,Repeat Reporter,Housekeeping,Low,Excellent,Covered,Low Traffic,Sunny,Normal Day,No
+Tablet,King-Anderson,DarkOliveGreen,Quad,10-06-2023,15-05-2023,Sporting Goods,25-05-2023,First Time Reporter,Security,Medium,Damaged,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Phone Charger,-,Moccasin,Cafeteria,30-01-2024,27-01-2024,Electronics,27-01-2024,Repeat Reporter,Housekeeping,High,Excellent,Covered,High Traffic,Cloudy,During Event,Yes
+Gloves,-,MediumSpringGreen,Baseball Field,14-10-2024,05-10-2024,Sporting Goods,13-10-2024,First Time Reporter,Housekeeping,Medium,Good,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Tablet,Leonard Group,SaddleBrown,Football Stadium,11-11-2024,18-10-2024,Sporting Goods,21-10-2024,First Time Reporter,Housekeeping,Medium,Damaged,Not Covered,High Traffic,Snowy,During Event,Yes
+Backpack,Yoder-Patton,SaddleBrown,Shopping Mall,21-09-2023,03-09-2023,Sporting Goods,16-09-2023,Repeat Reporter,None,Low,Good,Covered,Low Traffic,Rainy,During Event,Yes
+Headphones,Clark-Hall,DarkOrchid,Rooftop Bar,27-06-2024,31-05-2024,Sporting Goods,06-06-2024,Repeat Reporter,None,Medium,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,No
+Tumbler,-,DarkGoldenRod,Library Stacks,20-01-2024,22-12-2023,Sporting Goods,14-01-2024,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,Low Traffic,Rainy,During Event,No
+Charger,Livingston Ltd,LemonChiffon,Bus Ride,15-12-2024,16-11-2024,Books,05-12-2024,First Time Reporter,None,High,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,No
+Necklace,Taylor-Turner,CadetBlue,Coffee Shop,12-05-2024,30-04-2024,Personal Accessories,12-05-2024,Repeat Reporter,Housekeeping,Low,Excellent,Covered,Moderate Traffic,Sunny,During Event,No
+Gloves,Simpson Group,Green,Park,01-05-2024,29-04-2024,Personal Accessories,30-04-2024,First Time Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Earbuds,"Ford, Rodriguez and Carney",DarkViolet,Classroom 303,23-10-2023,15-10-2023,Sporting Goods,16-10-2023,First Time Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Snowy,Normal Day,Yes
+Earbuds,Johnson-Carpenter,Lavender,Student Lounge,23-07-2024,19-07-2024,Clothing,19-07-2024,First Time Reporter,Information Desk,Low,Damaged,Not Covered,High Traffic,Sunny,Normal Day,No
+Tumbler,"Boyd, Pierce and Barajas",DarkSlateBlue,Dormitory Lounge,11-11-2024,13-10-2024,Clothing,22-10-2024,Repeat Reporter,Security,Medium,Good,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Phone Charger,-,Sienna,Soccer Field,21-11-2024,12-11-2024,Personal Accessories,21-11-2024,First Time Reporter,Information Desk,Low,Damaged,Covered,Low Traffic,Rainy,During Event,Yes
+Backpack,-,SteelBlue,Science Building,17-04-2024,28-03-2024,Clothing,16-04-2024,First Time Reporter,Security,High,Excellent,Covered,High Traffic,Sunny,Normal Day,No
+Cell Phone,Lee-Stephens,MediumTurquoise,Hiking Trail,30-12-2024,23-12-2024,Books,24-12-2024,First Time Reporter,Security,Low,Good,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Notebook,-,Purple,Student Center,21-02-2023,09-02-2023,Sporting Goods,19-02-2023,First Time Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Snowy,During Event,Yes
+Cell Phone,Harper Ltd,DarkViolet,Outdoor Concert Venue,28-02-2023,20-02-2023,Electronics,24-02-2023,First Time Reporter,None,Medium,Good,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Umbrella,Griffith and Sons,MediumBlue,Library,14-02-2024,08-02-2024,Books,13-02-2024,First Time Reporter,None,Medium,Damaged,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Notebook,-,SkyBlue,Classroom 201,06-11-2023,21-10-2023,Books,02-11-2023,First Time Reporter,Information Desk,High,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Wallet,Fitzgerald Inc,PaleGreen,Library Study Room,15-01-2023,05-01-2023,Electronics,07-01-2023,First Time Reporter,Housekeeping,High,Excellent,Covered,High Traffic,Rainy,During Event,Yes
+Earbuds,"Lee, Rogers and Freeman",BlanchedAlmond,Bus Stop,26-09-2023,11-09-2023,Clothing,25-09-2023,First Time Reporter,Housekeeping,Medium,Excellent,Covered,High Traffic,Cloudy,Normal Day,Yes
+Hat,Sanders-Webster,Thistle,Beach,19-03-2023,20-02-2023,Books,05-03-2023,Repeat Reporter,Information Desk,High,Excellent,Covered,Moderate Traffic,Rainy,During Event,Yes
+Book,-,NavajoWhite,Study Lounge,20-11-2024,31-10-2024,Sporting Goods,07-11-2024,First Time Reporter,None,Low,Good,Not Covered,Moderate Traffic,Snowy,During Event,No
+Necklace,-,ForestGreen,Coffee Shop,20-07-2024,12-07-2024,Sporting Goods,17-07-2024,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Keys,Garcia Group,LightSkyBlue,Library Entrance,23-08-2023,06-08-2023,Clothing,16-08-2023,First Time Reporter,Information Desk,High,Damaged,Covered,Moderate Traffic,Cloudy,Normal Day,No
+ID Card,Jennings PLC,Aquamarine,Bookstore,23-02-2024,17-02-2024,Books,22-02-2024,Repeat Reporter,Housekeeping,Low,Good,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Headphones,"Garcia, Shah and Chavez",Aquamarine,Gym,20-08-2024,11-08-2024,Sporting Goods,12-08-2024,Repeat Reporter,Housekeeping,High,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+Coffee Mug,-,Plum,Lecture Hall 104,16-12-2024,01-12-2024,Clothing,04-12-2024,First Time Reporter,Housekeeping,High,Excellent,Not Covered,High Traffic,Sunny,Normal Day,No
+Necklace,-,LightSlateGray,Student Lounge,06-06-2024,24-05-2024,Clothing,02-06-2024,First Time Reporter,Security,High,Good,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Wallet,-,Gainsboro,Trailhead,03-06-2024,27-05-2024,Personal Accessories,27-05-2024,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,High Traffic,Sunny,Normal Day,No
+Jacket,Hughes-Williams,Ivory,Shopping Mall,02-03-2023,21-02-2023,Sporting Goods,01-03-2023,Repeat Reporter,Security,Medium,Good,Not Covered,High Traffic,Sunny,During Event,Yes
+Sunglasses,-,DimGray,Library,07-02-2023,22-01-2023,Personal Accessories,27-01-2023,Repeat Reporter,Security,High,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,No
+Wallet,-,LightSeaGreen,Cafeteria,24-12-2024,29-11-2024,Books,19-12-2024,First Time Reporter,Information Desk,Low,Excellent,Covered,High Traffic,Cloudy,Normal Day,Yes
+Earbuds,-,GreenYellow,Lecture Hall 102,07-07-2024,28-06-2024,Personal Accessories,29-06-2024,Repeat Reporter,None,High,Excellent,Not Covered,High Traffic,Snowy,Normal Day,No
+Cell Phone,-,Teal,Student Center,10-12-2024,21-11-2024,Books,27-11-2024,Repeat Reporter,Security,Medium,Excellent,Covered,High Traffic,Sunny,During Event,Yes
+Wallet,-,Teal,Gym Locker Room,20-10-2023,09-10-2023,Books,12-10-2023,Repeat Reporter,Security,Low,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,No
+Laptop,-,LawnGreen,Bus Stop,20-08-2023,25-07-2023,Clothing,03-08-2023,Repeat Reporter,Information Desk,Low,Excellent,Covered,High Traffic,Snowy,During Event,Yes
+Sunglasses,Nguyen-Brown,Silver,Classroom 204,02-08-2024,01-08-2024,Clothing,01-08-2024,First Time Reporter,Information Desk,High,Good,Covered,Low Traffic,Sunny,During Event,Yes
+Gloves,-,Coral,Science Building,24-04-2024,15-04-2024,Books,19-04-2024,First Time Reporter,None,Low,Damaged,Not Covered,High Traffic,Sunny,Normal Day,No
+Sunglasses,-,MediumSlateBlue,Quad,22-11-2023,07-11-2023,Sporting Goods,19-11-2023,First Time Reporter,None,Medium,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Headphones,-,Orchid,Dormitory Lounge,18-06-2024,15-06-2024,Electronics,15-06-2024,Repeat Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Hat,Campbell and Sons,RoyalBlue,Outdoor Amphitheater,02-07-2023,04-06-2023,Clothing,26-06-2023,Repeat Reporter,Information Desk,High,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Necklace,-,DarkSeaGreen,Library Study Room,09-07-2024,20-06-2024,Clothing,25-06-2024,Repeat Reporter,Housekeeping,High,Good,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Hat,-,MediumOrchid,Coffee Shop,31-12-2023,21-12-2023,Electronics,27-12-2023,First Time Reporter,None,Medium,Damaged,Covered,High Traffic,Cloudy,During Event,Yes
+Backpack,-,Violet,Basketball Court,15-03-2023,10-03-2023,Books,15-03-2023,First Time Reporter,Information Desk,Low,Damaged,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Wallet,-,HotPink,Park,25-03-2023,04-03-2023,Electronics,19-03-2023,First Time Reporter,None,High,Good,Covered,Low Traffic,Sunny,Normal Day,No
+Laptop,Smith PLC,MidnightBlue,Stadium Bleachers,05-06-2024,17-05-2024,Clothing,01-06-2024,Repeat Reporter,Security,Medium,Damaged,Covered,High Traffic,Rainy,During Event,Yes
+Water Bottle,"Shelton, Ayala and Green",Gold,Common Area,03-07-2024,26-06-2024,Sporting Goods,26-06-2024,First Time Reporter,None,Low,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+Charger,-,GhostWhite,Fitness Center,30-08-2023,07-08-2023,Clothing,29-08-2023,Repeat Reporter,None,High,Excellent,Covered,Low Traffic,Cloudy,During Event,No
+Watch,-,Gainsboro,Cafeteria,06-01-2023,20-12-2022,Sporting Goods,23-12-2022,First Time Reporter,Housekeeping,Medium,Damaged,Covered,Moderate Traffic,Cloudy,Normal Day,No
+Backpack,-,Blue,Skate Park,21-06-2024,29-05-2024,Sporting Goods,08-06-2024,Repeat Reporter,Housekeeping,High,Damaged,Covered,High Traffic,Cloudy,During Event,Yes
+Tablet,Ramirez-Hall,Turquoise,Library Stacks,07-04-2024,13-03-2024,Books,28-03-2024,Repeat Reporter,Housekeeping,Medium,Good,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Book,-,YellowGreen,Art Studio,29-03-2024,02-03-2024,Books,13-03-2024,First Time Reporter,Security,Medium,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Tablet,-,LightYellow,Student Lounge,22-03-2023,10-03-2023,Books,11-03-2023,First Time Reporter,Security,High,Good,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Book,-,Plum,Auditorium,15-03-2024,04-03-2024,Electronics,07-03-2024,First Time Reporter,None,High,Excellent,Covered,High Traffic,Cloudy,During Event,Yes
+Umbrella,-,SeaShell,Bus Station,24-08-2024,09-08-2024,Clothing,18-08-2024,Repeat Reporter,None,Low,Excellent,Covered,High Traffic,Sunny,Normal Day,Yes
+Tablet,-,Chocolate,Soccer Field,20-02-2024,22-01-2024,Electronics,03-02-2024,First Time Reporter,Housekeeping,Medium,Good,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Water Bottle,-,PaleTurquoise,Chemistry Lab,22-03-2024,26-02-2024,Electronics,04-03-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Scarf,-,Gray,Outdoor Concert Venue,11-04-2023,10-04-2023,Personal Accessories,10-04-2023,Repeat Reporter,Housekeeping,High,Good,Covered,Low Traffic,Cloudy,During Event,No
+Laptop,Coleman Inc,LightSlateGray,Study Lounge,16-07-2024,17-06-2024,Personal Accessories,25-06-2024,First Time Reporter,Security,Low,Excellent,Not Covered,High Traffic,Snowy,Normal Day,No
+Gloves,Cunningham-Mann,DarkTurquoise,Beach,07-07-2023,12-06-2023,Personal Accessories,27-06-2023,First Time Reporter,Housekeeping,Low,Excellent,Covered,High Traffic,Sunny,During Event,Yes
+Earbuds,Byrd Ltd,DarkViolet,Dormitory Hallway,22-09-2024,08-09-2024,Personal Accessories,22-09-2024,Repeat Reporter,Security,Medium,Good,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Notebook,Woodward-King,PaleVioletRed,Lecture Hall Lobby,26-10-2023,26-09-2023,Sporting Goods,03-10-2023,Repeat Reporter,None,Medium,Good,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Charger,Wilson-Melendez,OrangeRed,Bookstore,15-07-2024,12-07-2024,Personal Accessories,13-07-2024,Repeat Reporter,Information Desk,Low,Damaged,Covered,High Traffic,Cloudy,During Event,No
+Headphones,-,Navy,Music Studio,13-01-2023,08-01-2023,Clothing,09-01-2023,Repeat Reporter,Information Desk,Low,Good,Covered,High Traffic,Cloudy,Normal Day,Yes
+Water Bottle,-,SeaShell,Computer Lab,04-11-2024,03-11-2024,Clothing,03-11-2024,First Time Reporter,Information Desk,High,Good,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Keys,Stewart and Sons,Khaki,Botanical Garden,18-11-2024,02-11-2024,Clothing,15-11-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Keys,Martin-Hudson,DarkSlateBlue,Theme Park Entrance,25-01-2023,12-01-2023,Books,23-01-2023,First Time Reporter,Housekeeping,High,Good,Not Covered,High Traffic,Cloudy,Normal Day,No
+Jacket,-,DarkMagenta,Shopping Mall,16-03-2024,24-02-2024,Electronics,03-03-2024,Repeat Reporter,Security,High,Good,Covered,Low Traffic,Snowy,During Event,No
+Cell Phone,Nguyen LLC,CadetBlue,Rooftop Bar,26-10-2023,04-10-2023,Personal Accessories,25-10-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Sunny,Normal Day,No
+ID Card,Cochran-Gill,DarkBlue,Gym,11-09-2024,18-08-2024,Electronics,28-08-2024,Repeat Reporter,Information Desk,Medium,Good,Covered,Low Traffic,Rainy,During Event,Yes
+Gloves,-,DimGray,Ice Skating Rink,25-11-2023,14-11-2023,Electronics,22-11-2023,First Time Reporter,Security,High,Good,Not Covered,Low Traffic,Sunny,During Event,Yes
+Watch,-,LightGray,Student Center,05-03-2023,09-02-2023,Sporting Goods,26-02-2023,Repeat Reporter,Housekeeping,High,Good,Not Covered,Moderate Traffic,Rainy,During Event,No
+Jacket,-,LightPink,Coffee Shop Patio,05-10-2023,20-09-2023,Sporting Goods,04-10-2023,First Time Reporter,None,Medium,Damaged,Not Covered,High Traffic,Sunny,During Event,No
+Tablet,-,Cyan,Rooftop Pool,02-01-2023,08-12-2022,Personal Accessories,29-12-2022,Repeat Reporter,Housekeeping,High,Good,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Earbuds,-,Beige,Campus Trail,04-02-2024,30-01-2024,Clothing,04-02-2024,First Time Reporter,Information Desk,High,Damaged,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Charger,-,IndianRed,Stadium Stands,13-06-2024,15-05-2024,Personal Accessories,07-06-2024,Repeat Reporter,Housekeeping,Low,Good,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Headphones,-,SkyBlue,Study Lounge,24-04-2024,23-04-2024,Books,24-04-2024,First Time Reporter,None,Medium,Excellent,Not Covered,High Traffic,Rainy,During Event,No
+Jacket,"Payne, Reyes and Anderson",Black,Library,26-08-2024,23-08-2024,Personal Accessories,23-08-2024,Repeat Reporter,Housekeeping,Medium,Excellent,Covered,Moderate Traffic,Sunny,During Event,No
+Hat,"Rubio, Palmer and Nelson",YellowGreen,Park,07-03-2023,14-02-2023,Electronics,05-03-2023,First Time Reporter,None,Low,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Coffee Mug,Dawson-Garza,DarkOliveGreen,Student Union,14-08-2023,08-08-2023,Books,12-08-2023,First Time Reporter,Information Desk,High,Excellent,Not Covered,High Traffic,Cloudy,During Event,Yes
+Backpack,-,DimGray,Bus Stop,14-04-2023,02-04-2023,Electronics,13-04-2023,First Time Reporter,Housekeeping,High,Good,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Notebook,"Adams, Perez and Mcdowell",Maroon,Cafeteria,24-07-2024,01-07-2024,Books,07-07-2024,Repeat Reporter,Security,High,Excellent,Not Covered,Low Traffic,Sunny,Normal Day,No
+Cell Phone,"Miller, Silva and Edwards",Indigo,Bus Stop,30-08-2024,23-08-2024,Clothing,25-08-2024,Repeat Reporter,None,Low,Good,Covered,Moderate Traffic,Snowy,During Event,No
+Umbrella,-,HotPink,Cafeteria,26-10-2024,10-10-2024,Books,20-10-2024,Repeat Reporter,Housekeeping,Medium,Excellent,Covered,Moderate Traffic,Cloudy,During Event,No
+Cell Phone,-,MediumPurple,Library Study Room,26-06-2024,09-06-2024,Personal Accessories,12-06-2024,Repeat Reporter,None,Medium,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Tablet,-,SandyBrown,Student Union,13-02-2023,21-01-2023,Electronics,02-02-2023,Repeat Reporter,Security,Medium,Excellent,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Book,Mckinney-Gregory,Brown,Outdoor Patio,30-08-2024,27-08-2024,Clothing,29-08-2024,First Time Reporter,Housekeeping,High,Good,Covered,Low Traffic,Sunny,Normal Day,Yes
+Cell Phone,-,MintCream,Computer Lab,13-04-2023,18-03-2023,Clothing,10-04-2023,Repeat Reporter,Housekeeping,High,Good,Not Covered,Low Traffic,Sunny,Normal Day,Yes
+Watch,"Garcia, Haley and Carr",DeepPink,Library,21-04-2023,03-04-2023,Clothing,13-04-2023,Repeat Reporter,Housekeeping,Low,Excellent,Not Covered,Low Traffic,Snowy,During Event,No
+ID Card,"Singleton, Booth and Anderson",Linen,Gym,07-05-2024,03-05-2024,Sporting Goods,03-05-2024,First Time Reporter,None,High,Good,Covered,Low Traffic,Cloudy,Normal Day,No
+Jacket,"Brooks, Evans and Rice",SlateGray,Quad,17-03-2023,04-03-2023,Clothing,15-03-2023,Repeat Reporter,Security,Low,Damaged,Covered,High Traffic,Snowy,Normal Day,No
+Headphones,Roberson LLC,Chocolate,Cafeteria,24-12-2023,22-12-2023,Books,23-12-2023,First Time Reporter,Security,High,Damaged,Not Covered,Low Traffic,Cloudy,During Event,No
+ID Card,"Jordan, Koch and Jordan",DarkKhaki,Baseball Field,04-05-2023,04-04-2023,Electronics,14-04-2023,Repeat Reporter,Housekeeping,High,Good,Not Covered,High Traffic,Sunny,During Event,Yes
+Book,Young Inc,Navy,Football Stadium,07-02-2024,22-01-2024,Books,07-02-2024,Repeat Reporter,Information Desk,Low,Good,Not Covered,Moderate Traffic,Sunny,Normal Day,No
+Book,"Ayers, Cobb and Bean",Aquamarine,Shopping Mall,30-03-2023,03-03-2023,Electronics,27-03-2023,Repeat Reporter,Security,High,Excellent,Covered,Low Traffic,Cloudy,Normal Day,No
+Keys,-,Turquoise,Rooftop Bar,06-08-2024,31-07-2024,Personal Accessories,04-08-2024,First Time Reporter,Security,High,Good,Not Covered,Moderate Traffic,Snowy,Normal Day,No
+Keys,Holland Group,MediumSpringGreen,Library Stacks,21-08-2023,13-08-2023,Books,19-08-2023,Repeat Reporter,None,Low,Damaged,Covered,Low Traffic,Rainy,During Event,Yes
+Book,-,Maroon,Bus Ride,15-10-2024,13-10-2024,Electronics,15-10-2024,First Time Reporter,None,Low,Damaged,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Keys,-,IndianRed,Coffee Shop,29-12-2023,22-12-2023,Personal Accessories,25-12-2023,Repeat Reporter,None,Low,Excellent,Not Covered,High Traffic,Cloudy,During Event,Yes
+Water Bottle,-,FireBrick,Park,03-01-2024,30-12-2023,Personal Accessories,03-01-2024,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,Low Traffic,Snowy,During Event,No
+Sunglasses,"Bates, Garcia and Gonzalez",FireBrick,Classroom 303,20-09-2024,04-09-2024,Clothing,16-09-2024,Repeat Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Headphones,Brown Ltd,MediumPurple,Student Lounge,29-12-2024,21-12-2024,Books,29-12-2024,Repeat Reporter,Security,Low,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+Coffee Mug,-,DarkTurquoise,Dormitory Lounge,14-11-2024,22-10-2024,Personal Accessories,28-10-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Hat,"Jones, Gonzalez and Cordova",Beige,Soccer Field,03-11-2023,09-10-2023,Electronics,31-10-2023,First Time Reporter,None,Low,Good,Not Covered,High Traffic,Sunny,During Event,Yes
+Sunglasses,-,LightSlateGray,Science Building,06-07-2024,18-06-2024,Clothing,21-06-2024,First Time Reporter,Housekeeping,High,Damaged,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Headphones,Cordova Inc,Silver,Hiking Trail,19-04-2023,18-04-2023,Books,19-04-2023,Repeat Reporter,Housekeeping,Low,Good,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Charger,Bush-Drake,Pink,Student Center,23-07-2024,11-07-2024,Clothing,14-07-2024,First Time Reporter,Housekeeping,Low,Good,Not Covered,Low Traffic,Sunny,Normal Day,Yes
+Laptop,Harris Inc,FireBrick,Outdoor Concert Venue,30-11-2023,06-11-2023,Clothing,08-11-2023,Repeat Reporter,None,High,Excellent,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Notebook,-,MidnightBlue,Library,14-03-2023,04-03-2023,Electronics,07-03-2023,Repeat Reporter,Security,High,Damaged,Not Covered,Low Traffic,Cloudy,During Event,No
+Scarf,-,CadetBlue,Classroom 201,29-10-2023,05-10-2023,Sporting Goods,17-10-2023,Repeat Reporter,Information Desk,High,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Tablet,"Jones, Smith and Harvey",LightPink,Library Study Room,09-09-2023,30-08-2023,Electronics,01-09-2023,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Sunny,During Event,No
+Keys,Moore-Rhodes,DarkTurquoise,Bus Stop,24-10-2024,16-10-2024,Books,19-10-2024,First Time Reporter,Security,Medium,Good,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Tablet,Nguyen-Morris,Orchid,Beach,31-08-2024,06-08-2024,Clothing,21-08-2024,Repeat Reporter,Security,Medium,Damaged,Not Covered,Low Traffic,Sunny,Normal Day,Yes
+Headphones,-,Brown,Study Lounge,11-05-2024,30-04-2024,Sporting Goods,04-05-2024,First Time Reporter,Security,Medium,Excellent,Not Covered,Low Traffic,Sunny,Normal Day,No
+Jacket,Jones Inc,Azure,Coffee Shop,12-10-2023,26-09-2023,Clothing,29-09-2023,First Time Reporter,None,High,Good,Covered,High Traffic,Sunny,During Event,Yes
+Coffee Mug,-,Violet,Library Entrance,04-03-2023,14-02-2023,Books,20-02-2023,Repeat Reporter,Information Desk,High,Good,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Laptop,Campos Group,OrangeRed,Bookstore,30-07-2024,17-07-2024,Clothing,28-07-2024,Repeat Reporter,None,High,Damaged,Not Covered,High Traffic,Snowy,During Event,Yes
+Laptop,-,White,Gym,22-10-2024,30-09-2024,Sporting Goods,18-10-2024,First Time Reporter,None,High,Good,Not Covered,Low Traffic,Sunny,During Event,No
+Tumbler,-,PaleTurquoise,Lecture Hall 104,31-08-2023,22-08-2023,Clothing,30-08-2023,Repeat Reporter,Information Desk,High,Good,Covered,Low Traffic,Snowy,During Event,Yes
+Cell Phone,"Russell, Miller and Olson",LightGray,Student Lounge,03-04-2023,23-03-2023,Sporting Goods,26-03-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Snowy,During Event,No
+Charger,Luna-Hill,LightSkyBlue,Trailhead,12-11-2024,28-10-2024,Books,03-11-2024,First Time Reporter,None,High,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Necklace,Fernandez-Stanton,Lime,Shopping Mall,25-05-2023,12-05-2023,Sporting Goods,18-05-2023,Repeat Reporter,None,Medium,Excellent,Covered,Low Traffic,Snowy,During Event,Yes
+Jacket,-,YellowGreen,Library,17-08-2023,09-08-2023,Electronics,09-08-2023,Repeat Reporter,None,High,Excellent,Not Covered,Low Traffic,Sunny,During Event,Yes
+Book,"Nguyen, Wright and Bryan",GreenYellow,Cafeteria,21-08-2024,15-08-2024,Books,20-08-2024,First Time Reporter,Information Desk,High,Damaged,Covered,Moderate Traffic,Snowy,During Event,Yes
+Laptop,"Bryant, Chase and Nichols",GhostWhite,Lecture Hall 102,17-01-2024,07-01-2024,Clothing,11-01-2024,First Time Reporter,Security,Medium,Excellent,Covered,Moderate Traffic,Rainy,During Event,Yes
+Water Bottle,-,PaleTurquoise,Student Center,10-10-2023,12-09-2023,Sporting Goods,26-09-2023,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Headphones,Rojas-Brown,DarkTurquoise,Gym Locker Room,04-08-2024,10-07-2024,Personal Accessories,26-07-2024,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Laptop,Conley-Lawson,LawnGreen,Bus Stop,15-07-2024,11-07-2024,Electronics,15-07-2024,First Time Reporter,None,Medium,Good,Not Covered,Low Traffic,Snowy,Normal Day,No
+Book,Wade Ltd,Coral,Classroom 204,17-09-2024,28-08-2024,Books,17-09-2024,Repeat Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+Headphones,-,Peru,Science Building,12-05-2023,09-05-2023,Clothing,12-05-2023,First Time Reporter,Security,High,Good,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Water Bottle,-,SeaGreen,Quad,17-04-2024,13-04-2024,Clothing,17-04-2024,Repeat Reporter,Security,High,Good,Not Covered,High Traffic,Cloudy,During Event,No
+Hat,-,Teal,Dormitory Lounge,18-03-2023,02-03-2023,Electronics,11-03-2023,Repeat Reporter,Information Desk,High,Good,Covered,Low Traffic,Sunny,During Event,Yes
+Backpack,Rodriguez and Sons,Aqua,Outdoor Amphitheater,31-07-2023,30-07-2023,Personal Accessories,30-07-2023,Repeat Reporter,Information Desk,Low,Good,Covered,High Traffic,Snowy,During Event,Yes
+ID Card,-,PaleTurquoise,Library Study Room,13-11-2023,28-10-2023,Sporting Goods,07-11-2023,First Time Reporter,Security,Low,Excellent,Covered,Moderate Traffic,Cloudy,During Event,No
+Charger,Rhodes-Serrano,LightSeaGreen,Coffee Shop,16-06-2023,25-05-2023,Personal Accessories,26-05-2023,First Time Reporter,Security,Medium,Damaged,Covered,High Traffic,Rainy,During Event,No
+Book,-,Gray,Basketball Court,24-11-2023,01-11-2023,Sporting Goods,14-11-2023,First Time Reporter,Housekeeping,Low,Good,Covered,Low Traffic,Sunny,During Event,Yes
+ID Card,-,MediumPurple,Park,05-12-2023,10-11-2023,Sporting Goods,20-11-2023,First Time Reporter,Housekeeping,Medium,Excellent,Covered,High Traffic,Rainy,Normal Day,No
+Charger,-,Teal,Stadium Bleachers,13-05-2023,07-05-2023,Electronics,12-05-2023,First Time Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Gloves,"Lewis, Smith and Brown",White,Common Area,18-05-2023,23-04-2023,Sporting Goods,17-05-2023,First Time Reporter,None,High,Good,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Charger,-,MediumOrchid,Fitness Center,02-04-2023,23-03-2023,Clothing,31-03-2023,First Time Reporter,None,Medium,Damaged,Not Covered,Low Traffic,Sunny,Normal Day,Yes
+Phone Charger,-,LightCyan,Cafeteria,19-10-2023,17-10-2023,Electronics,18-10-2023,First Time Reporter,Information Desk,Low,Good,Not Covered,High Traffic,Snowy,Normal Day,No
+Headphones,Salas PLC,AntiqueWhite,Skate Park,01-11-2023,16-10-2023,Books,29-10-2023,Repeat Reporter,Information Desk,Medium,Good,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Charger,"Smith, Carter and Hernandez",RosyBrown,Library Stacks,20-08-2023,22-07-2023,Electronics,05-08-2023,First Time Reporter,Housekeeping,High,Good,Covered,Low Traffic,Sunny,Normal Day,Yes
+Cell Phone,"Bell, Jordan and Roberts",Black,Art Studio,16-09-2023,06-09-2023,Electronics,09-09-2023,Repeat Reporter,Security,Medium,Damaged,Not Covered,High Traffic,Cloudy,During Event,Yes
+Laptop,-,PowderBlue,Student Lounge,28-02-2023,12-02-2023,Clothing,12-02-2023,Repeat Reporter,Security,High,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Tablet,"Deleon, Roberts and York",OrangeRed,Auditorium,10-01-2023,02-01-2023,Clothing,06-01-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Rainy,Normal Day,Yes
+Book,Rogers Group,BurlyWood,Bus Station,27-09-2023,21-09-2023,Clothing,27-09-2023,Repeat Reporter,Housekeeping,Low,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Umbrella,-,Tan,Soccer Field,14-07-2023,14-06-2023,Books,10-07-2023,First Time Reporter,None,Medium,Damaged,Not Covered,Low Traffic,Snowy,During Event,Yes
+Wallet,-,Silver,Chemistry Lab,15-03-2024,26-02-2024,Clothing,08-03-2024,Repeat Reporter,None,High,Good,Covered,High Traffic,Snowy,During Event,Yes
+Jacket,Perez LLC,HotPink,Outdoor Concert Venue,22-06-2023,08-06-2023,Books,11-06-2023,First Time Reporter,Information Desk,High,Excellent,Not Covered,High Traffic,Rainy,During Event,Yes
+Wallet,"Chan, Gordon and Sanders",DarkOliveGreen,Study Lounge,06-10-2024,16-09-2024,Books,19-09-2024,First Time Reporter,None,High,Excellent,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Laptop,Johnson Ltd,OrangeRed,Beach,27-06-2024,20-06-2024,Clothing,21-06-2024,Repeat Reporter,None,Medium,Good,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Umbrella,-,DarkGreen,Dormitory Hallway,17-08-2023,07-08-2023,Sporting Goods,09-08-2023,Repeat Reporter,Security,Low,Excellent,Covered,Low Traffic,Snowy,Normal Day,Yes
+Laptop,"Williams, Orr and Ward",BurlyWood,Lecture Hall Lobby,09-06-2024,18-05-2024,Personal Accessories,03-06-2024,First Time Reporter,Housekeeping,High,Good,Covered,Moderate Traffic,Cloudy,Normal Day,No
+Laptop,Ross-Jordan,Cornsilk,Bookstore,31-08-2024,07-08-2024,Books,22-08-2024,Repeat Reporter,Housekeeping,High,Excellent,Covered,Low Traffic,Sunny,During Event,Yes
+Hat,Kelley-Campbell,Lime,Music Studio,01-01-2023,15-12-2022,Clothing,20-12-2022,Repeat Reporter,None,Medium,Good,Covered,Low Traffic,Sunny,Normal Day,Yes
+ID Card,Miller-Torres,BurlyWood,Computer Lab,17-06-2023,27-05-2023,Sporting Goods,28-05-2023,First Time Reporter,Security,High,Excellent,Covered,Moderate Traffic,Cloudy,During Event,Yes
+ID Card,-,Ivory,Botanical Garden,27-01-2024,08-01-2024,Sporting Goods,11-01-2024,First Time Reporter,None,High,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Gloves,Brown Inc,LightSteelBlue,Theme Park Entrance,13-04-2024,19-03-2024,Clothing,21-03-2024,First Time Reporter,None,Medium,Excellent,Covered,High Traffic,Snowy,During Event,Yes
+Tablet,-,Purple,Shopping Mall,10-07-2024,14-06-2024,Personal Accessories,19-06-2024,Repeat Reporter,Security,Low,Good,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Cell Phone,Burke-Gonzalez,Cornsilk,Rooftop Bar,13-09-2023,21-08-2023,Sporting Goods,06-09-2023,First Time Reporter,Housekeeping,High,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Watch,-,MediumSpringGreen,Gym,24-01-2023,16-01-2023,Sporting Goods,22-01-2023,First Time Reporter,Housekeeping,Medium,Excellent,Covered,Moderate Traffic,Sunny,During Event,Yes
+Scarf,Miller-Arias,SlateGray,Ice Skating Rink,06-09-2024,27-08-2024,Sporting Goods,03-09-2024,First Time Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Coffee Mug,-,SlateBlue,Student Center,12-03-2023,15-02-2023,Personal Accessories,03-03-2023,First Time Reporter,None,Low,Excellent,Not Covered,High Traffic,Cloudy,During Event,Yes
+Book,"Bennett, Cole and Johnson",OrangeRed,Coffee Shop Patio,23-03-2023,02-03-2023,Sporting Goods,11-03-2023,Repeat Reporter,Security,High,Damaged,Covered,High Traffic,Rainy,During Event,Yes
+Charger,"Frost, May and Stein",OrangeRed,Rooftop Pool,06-05-2024,09-04-2024,Sporting Goods,03-05-2024,First Time Reporter,Security,Low,Good,Covered,High Traffic,Cloudy,Normal Day,Yes
+Phone Charger,"Nelson, Brown and Moses",DarkSalmon,Campus Trail,02-10-2023,16-09-2023,Personal Accessories,24-09-2023,First Time Reporter,Security,Low,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Tablet,"Lutz, Schaefer and Cole",Wheat,Stadium Stands,12-03-2023,10-02-2023,Books,05-03-2023,Repeat Reporter,None,Low,Good,Covered,Moderate Traffic,Snowy,During Event,Yes
+Gloves,Pineda Inc,AntiqueWhite,Study Lounge,27-05-2024,02-05-2024,Sporting Goods,10-05-2024,First Time Reporter,Security,Low,Damaged,Covered,Moderate Traffic,Sunny,During Event,Yes
+Book,-,White,Library,10-11-2024,08-11-2024,Electronics,10-11-2024,Repeat Reporter,None,Low,Excellent,Covered,High Traffic,Cloudy,Normal Day,Yes
+Tumbler,-,LightSkyBlue,Park,11-09-2024,22-08-2024,Personal Accessories,22-08-2024,Repeat Reporter,Information Desk,Low,Excellent,Covered,Low Traffic,Rainy,During Event,No
+Necklace,Edwards-Warren,DarkOliveGreen,Student Union,22-10-2024,15-10-2024,Clothing,21-10-2024,First Time Reporter,Security,High,Damaged,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Backpack,-,DarkCyan,Bus Stop,10-07-2024,07-07-2024,Clothing,08-07-2024,Repeat Reporter,Security,Medium,Damaged,Covered,Low Traffic,Rainy,Normal Day,Yes
+Water Bottle,Heath Ltd,Violet,Cafeteria,21-08-2024,14-08-2024,Sporting Goods,20-08-2024,Repeat Reporter,Housekeeping,Medium,Good,Not Covered,Moderate Traffic,Snowy,Normal Day,No
+Backpack,-,OldLace,Bus Stop,24-01-2024,22-01-2024,Clothing,24-01-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Hat,-,MediumPurple,Cafeteria,15-12-2023,28-11-2023,Clothing,04-12-2023,First Time Reporter,Information Desk,High,Excellent,Not Covered,High Traffic,Sunny,During Event,Yes
+Coffee Mug,-,Brown,Library Study Room,11-12-2024,04-12-2024,Books,06-12-2024,First Time Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Snowy,During Event,Yes
+Sunglasses,"Sanders, Nguyen and Lozano",DarkSalmon,Student Union,23-07-2023,11-07-2023,Electronics,23-07-2023,First Time Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Snowy,Normal Day,No
+Wallet,Carter LLC,AntiqueWhite,Outdoor Patio,02-03-2024,09-02-2024,Sporting Goods,24-02-2024,Repeat Reporter,None,High,Good,Covered,High Traffic,Sunny,Normal Day,No
+Wallet,-,LightSlateGray,Computer Lab,03-02-2024,16-01-2024,Electronics,23-01-2024,Repeat Reporter,None,Medium,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Notebook,-,PapayaWhip,Library,06-06-2024,05-06-2024,Books,06-06-2024,First Time Reporter,Housekeeping,Medium,Good,Covered,Low Traffic,Sunny,During Event,Yes
+Backpack,-,Silver,Gym,17-06-2023,24-05-2023,Electronics,17-06-2023,Repeat Reporter,None,Low,Good,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Tumbler,Grant-Johnson,OldLace,Quad,12-10-2024,06-10-2024,Personal Accessories,12-10-2024,First Time Reporter,Housekeeping,High,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Hat,Kelley-Jackson,DarkSlateBlue,Cafeteria,09-04-2024,19-03-2024,Sporting Goods,31-03-2024,Repeat Reporter,Security,Medium,Excellent,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Hat,Mcfarland-Reed,LightGray,Baseball Field,05-04-2024,20-03-2024,Electronics,21-03-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Gloves,"Horton, Moore and Santos",LightSkyBlue,Football Stadium,09-09-2024,30-08-2024,Electronics,07-09-2024,Repeat Reporter,Security,Medium,Good,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Umbrella,-,YellowGreen,Shopping Mall,13-10-2023,28-09-2023,Personal Accessories,28-09-2023,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,No
+Tablet,Vincent PLC,Sienna,Rooftop Bar,25-07-2023,03-07-2023,Sporting Goods,07-07-2023,First Time Reporter,Housekeeping,Low,Good,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Hat,Grimes-Hill,Teal,Library Stacks,21-09-2023,07-09-2023,Clothing,19-09-2023,First Time Reporter,Housekeeping,Low,Damaged,Covered,Low Traffic,Rainy,Normal Day,Yes
+Earbuds,-,Cyan,Bus Ride,21-04-2023,12-04-2023,Books,21-04-2023,Repeat Reporter,Information Desk,Low,Good,Covered,High Traffic,Rainy,Normal Day,No
+Keys,Cruz Inc,BlueViolet,Coffee Shop,03-09-2024,29-08-2024,Books,29-08-2024,First Time Reporter,Housekeeping,Medium,Excellent,Covered,High Traffic,Snowy,Normal Day,No
+ID Card,"Velazquez, Gates and Wiggins",OrangeRed,Park,07-08-2024,19-07-2024,Books,03-08-2024,Repeat Reporter,Information Desk,Medium,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Water Bottle,-,SaddleBrown,Classroom 303,15-07-2023,06-07-2023,Clothing,07-07-2023,First Time Reporter,None,High,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Scarf,-,Magenta,Student Lounge,28-05-2024,05-05-2024,Clothing,24-05-2024,First Time Reporter,Housekeeping,Low,Excellent,Covered,High Traffic,Rainy,During Event,Yes
+Keys,-,LightSteelBlue,Dormitory Lounge,02-07-2024,22-06-2024,Books,27-06-2024,First Time Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Book,Jenkins-Green,MediumBlue,Soccer Field,11-03-2023,01-03-2023,Sporting Goods,07-03-2023,Repeat Reporter,Housekeeping,Low,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Scarf,"Holden, Jones and Shaw",WhiteSmoke,Science Building,08-09-2023,30-08-2023,Clothing,07-09-2023,First Time Reporter,Security,High,Damaged,Covered,High Traffic,Rainy,Normal Day,Yes
+Notebook,-,DarkGoldenRod,Hiking Trail,15-01-2024,05-01-2024,Personal Accessories,07-01-2024,First Time Reporter,Housekeeping,Low,Damaged,Covered,High Traffic,Cloudy,Normal Day,Yes
+Headphones,Chen Group,MidnightBlue,Student Center,02-07-2024,15-06-2024,Electronics,24-06-2024,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Sunny,Normal Day,Yes
+Jacket,"West, Gray and Barrera",DeepSkyBlue,Outdoor Concert Venue,27-10-2023,02-10-2023,Books,02-10-2023,Repeat Reporter,Security,Low,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Backpack,"Wilson, Poole and Marshall",Crimson,Library,22-11-2023,03-11-2023,Clothing,17-11-2023,Repeat Reporter,Security,Medium,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Jacket,Schroeder Group,RoyalBlue,Classroom 201,02-12-2023,06-11-2023,Sporting Goods,18-11-2023,First Time Reporter,Security,High,Excellent,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Tablet,-,DarkOrange,Library Study Room,17-09-2024,11-09-2024,Clothing,15-09-2024,Repeat Reporter,Security,High,Damaged,Not Covered,High Traffic,Cloudy,During Event,Yes
+Necklace,Gordon Ltd,MediumSeaGreen,Bus Stop,22-01-2024,08-01-2024,Clothing,09-01-2024,Repeat Reporter,None,High,Damaged,Not Covered,Low Traffic,Sunny,During Event,Yes
+Jacket,-,PapayaWhip,Beach,22-10-2024,25-09-2024,Clothing,03-10-2024,First Time Reporter,Housekeeping,High,Damaged,Not Covered,High Traffic,Cloudy,Normal Day,No
+Water Bottle,Townsend-Mccann,Orchid,Study Lounge,29-11-2024,03-11-2024,Personal Accessories,04-11-2024,Repeat Reporter,Security,Low,Good,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Watch,-,DarkKhaki,Coffee Shop,31-03-2023,08-03-2023,Electronics,27-03-2023,Repeat Reporter,Security,High,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Scarf,-,Blue,Library Entrance,29-04-2024,28-04-2024,Electronics,29-04-2024,Repeat Reporter,Housekeeping,High,Good,Not Covered,Low Traffic,Cloudy,Normal Day,No
+ID Card,-,MidnightBlue,Bookstore,20-02-2023,28-01-2023,Personal Accessories,06-02-2023,First Time Reporter,Housekeeping,High,Damaged,Covered,High Traffic,Sunny,Normal Day,Yes
+Laptop,"Jennings, Schmidt and Davis",MistyRose,Gym,04-02-2023,22-01-2023,Sporting Goods,26-01-2023,Repeat Reporter,Housekeeping,High,Excellent,Covered,High Traffic,Cloudy,Normal Day,Yes
+ID Card,"Mendoza, Dean and Brown",DimGray,Lecture Hall 104,30-07-2024,20-07-2024,Clothing,25-07-2024,Repeat Reporter,None,Medium,Excellent,Not Covered,High Traffic,Snowy,During Event,Yes
+Backpack,Baker-Moore,DarkSeaGreen,Student Lounge,25-02-2023,28-01-2023,Books,06-02-2023,Repeat Reporter,Housekeeping,Low,Good,Covered,Moderate Traffic,Rainy,During Event,Yes
+Wallet,-,Violet,Trailhead,28-04-2024,15-04-2024,Clothing,20-04-2024,First Time Reporter,None,Medium,Damaged,Not Covered,Low Traffic,Cloudy,During Event,No
+Keys,-,Sienna,Shopping Mall,14-03-2023,05-03-2023,Electronics,13-03-2023,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Charger,-,PaleVioletRed,Library,22-02-2023,06-02-2023,Clothing,15-02-2023,First Time Reporter,None,Medium,Good,Covered,Low Traffic,Snowy,Normal Day,Yes
+Keys,-,Lime,Cafeteria,06-01-2023,11-12-2022,Sporting Goods,13-12-2022,Repeat Reporter,None,Medium,Good,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Tumbler,-,LimeGreen,Lecture Hall 102,15-06-2024,02-06-2024,Electronics,07-06-2024,Repeat Reporter,None,High,Damaged,Not Covered,High Traffic,Rainy,During Event,Yes
+Necklace,-,SlateBlue,Student Center,18-06-2023,20-05-2023,Sporting Goods,08-06-2023,Repeat Reporter,Information Desk,Medium,Excellent,Covered,High Traffic,Snowy,Normal Day,Yes
+Keys,Mcintosh and Sons,SlateGray,Gym Locker Room,24-10-2024,13-10-2024,Sporting Goods,20-10-2024,First Time Reporter,None,High,Damaged,Covered,High Traffic,Rainy,During Event,Yes
+Phone Charger,Pace Ltd,GhostWhite,Bus Stop,07-01-2024,16-12-2023,Sporting Goods,02-01-2024,Repeat Reporter,Security,Low,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Headphones,-,SeaGreen,Classroom 204,06-10-2023,25-09-2023,Personal Accessories,27-09-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Covered,Low Traffic,Snowy,During Event,No
+Phone Charger,James-Pruitt,Navy,Science Building,27-12-2023,20-12-2023,Personal Accessories,26-12-2023,Repeat Reporter,Information Desk,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Laptop,"Williams, Jacobson and Solis",Aqua,Quad,24-04-2023,26-03-2023,Clothing,01-04-2023,First Time Reporter,None,High,Excellent,Covered,Low Traffic,Rainy,During Event,Yes
+Coffee Mug,-,LightCoral,Dormitory Lounge,05-08-2023,16-07-2023,Sporting Goods,03-08-2023,Repeat Reporter,None,Medium,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+Hat,-,BurlyWood,Outdoor Amphitheater,08-07-2024,25-06-2024,Sporting Goods,04-07-2024,First Time Reporter,Information Desk,Low,Good,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Notebook,Jones Group,DarkKhaki,Library Study Room,02-03-2024,26-02-2024,Personal Accessories,26-02-2024,First Time Reporter,Security,Medium,Damaged,Not Covered,High Traffic,Snowy,During Event,Yes
+Tumbler,-,Turquoise,Coffee Shop,26-05-2024,09-05-2024,Electronics,26-05-2024,First Time Reporter,Housekeeping,High,Good,Covered,High Traffic,Snowy,Normal Day,Yes
+Charger,-,Orchid,Basketball Court,04-09-2023,19-08-2023,Personal Accessories,20-08-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Keys,-,DarkTurquoise,Park,24-02-2023,16-02-2023,Clothing,22-02-2023,First Time Reporter,Security,Medium,Good,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+ID Card,-,Green,Stadium Bleachers,22-12-2023,08-12-2023,Electronics,19-12-2023,Repeat Reporter,Information Desk,Medium,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Gloves,-,WhiteSmoke,Common Area,20-07-2024,07-07-2024,Personal Accessories,16-07-2024,First Time Reporter,Information Desk,High,Excellent,Not Covered,Moderate Traffic,Sunny,During Event,No
+Coffee Mug,"Herring, Walsh and Santos",Wheat,Fitness Center,08-05-2024,06-05-2024,Books,06-05-2024,Repeat Reporter,None,Low,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Headphones,"Hensley, Davis and Richardson",DarkSlateBlue,Cafeteria,26-03-2024,28-02-2024,Personal Accessories,06-03-2024,First Time Reporter,Information Desk,Medium,Good,Not Covered,High Traffic,Sunny,Normal Day,Yes
+ID Card,"Lambert, Williams and Miller",Khaki,Skate Park,03-08-2023,29-07-2023,Sporting Goods,02-08-2023,First Time Reporter,Information Desk,Medium,Good,Covered,High Traffic,Rainy,During Event,Yes
+Wallet,Davis PLC,DarkGoldenRod,Library Stacks,22-02-2024,16-02-2024,Clothing,22-02-2024,Repeat Reporter,Housekeeping,High,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,No
+Earbuds,-,Violet,Art Studio,06-08-2024,13-07-2024,Clothing,28-07-2024,First Time Reporter,Housekeeping,Low,Damaged,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Keys,-,MediumBlue,Student Lounge,25-01-2024,26-12-2023,Clothing,14-01-2024,First Time Reporter,None,High,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Water Bottle,"Tucker, Hansen and Lewis",MistyRose,Auditorium,22-07-2024,10-07-2024,Clothing,19-07-2024,First Time Reporter,None,Low,Good,Not Covered,Low Traffic,Sunny,Normal Day,No
+Necklace,-,Salmon,Bus Station,14-08-2024,08-08-2024,Electronics,10-08-2024,First Time Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Sunny,Normal Day,No
+Tumbler,Thompson-Hayes,Orange,Soccer Field,11-05-2024,07-05-2024,Sporting Goods,09-05-2024,Repeat Reporter,Information Desk,Medium,Excellent,Covered,High Traffic,Snowy,Normal Day,No
+Wallet,-,Peru,Chemistry Lab,17-06-2024,18-05-2024,Sporting Goods,08-06-2024,First Time Reporter,Information Desk,Low,Damaged,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Umbrella,-,Green,Outdoor Concert Venue,03-07-2023,02-07-2023,Clothing,02-07-2023,Repeat Reporter,None,High,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Sunglasses,-,SaddleBrown,Study Lounge,15-12-2024,13-12-2024,Clothing,14-12-2024,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Water Bottle,-,Aqua,Beach,07-08-2024,13-07-2024,Clothing,25-07-2024,First Time Reporter,None,High,Excellent,Covered,Moderate Traffic,Rainy,During Event,No
+Laptop,Hansen PLC,SteelBlue,Dormitory Hallway,31-12-2023,10-12-2023,Electronics,15-12-2023,First Time Reporter,Security,Medium,Damaged,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Jacket,-,Sienna,Lecture Hall Lobby,24-11-2023,01-11-2023,Clothing,07-11-2023,Repeat Reporter,Information Desk,Medium,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Backpack,-,Tomato,Bookstore,30-10-2024,18-10-2024,Personal Accessories,23-10-2024,First Time Reporter,Information Desk,Medium,Good,Not Covered,Low Traffic,Sunny,During Event,Yes
+Earbuds,Forbes Ltd,MediumTurquoise,Music Studio,29-08-2024,01-08-2024,Clothing,27-08-2024,Repeat Reporter,None,Low,Damaged,Not Covered,Moderate Traffic,Snowy,During Event,No
+Hat,"Morris, Kelly and Colon",LightSlateGray,Computer Lab,02-05-2023,21-04-2023,Sporting Goods,25-04-2023,Repeat Reporter,Security,Medium,Excellent,Covered,High Traffic,Snowy,Normal Day,Yes
+Gloves,-,Navy,Botanical Garden,09-12-2023,07-12-2023,Books,07-12-2023,Repeat Reporter,Information Desk,Low,Good,Covered,High Traffic,Rainy,During Event,Yes
+Notebook,-,YellowGreen,Theme Park Entrance,27-10-2024,04-10-2024,Personal Accessories,08-10-2024,Repeat Reporter,Housekeeping,Medium,Good,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Umbrella,Schneider-Lynch,DeepPink,Shopping Mall,18-09-2023,19-08-2023,Clothing,22-08-2023,First Time Reporter,Security,High,Excellent,Covered,Moderate Traffic,Sunny,During Event,Yes
+Keys,-,Silver,Rooftop Bar,17-12-2024,13-12-2024,Clothing,16-12-2024,Repeat Reporter,Information Desk,High,Excellent,Covered,Moderate Traffic,Sunny,During Event,Yes
+Umbrella,"Taylor, Johnson and Buchanan",DarkBlue,Gym,31-05-2024,23-05-2024,Books,26-05-2024,First Time Reporter,Information Desk,High,Good,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Keys,"Torres, Haynes and Contreras",Violet,Ice Skating Rink,18-12-2023,06-12-2023,Clothing,14-12-2023,First Time Reporter,Security,Medium,Damaged,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Scarf,"Burton, Ford and Gregory",SteelBlue,Student Center,11-11-2024,28-10-2024,Electronics,29-10-2024,First Time Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Laptop,Sanders LLC,Black,Coffee Shop Patio,22-08-2024,27-07-2024,Clothing,21-08-2024,Repeat Reporter,Security,Medium,Good,Not Covered,High Traffic,Snowy,During Event,Yes
+Sunglasses,-,YellowGreen,Rooftop Pool,12-10-2024,05-10-2024,Personal Accessories,10-10-2024,First Time Reporter,Information Desk,Low,Excellent,Covered,High Traffic,Snowy,During Event,Yes
+Water Bottle,Cisneros LLC,LightBlue,Campus Trail,14-08-2024,11-08-2024,Personal Accessories,14-08-2024,Repeat Reporter,None,Low,Excellent,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Umbrella,-,DimGray,Stadium Stands,24-09-2023,14-09-2023,Books,16-09-2023,First Time Reporter,Security,Medium,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+Water Bottle,-,DeepPink,Study Lounge,23-08-2024,06-08-2024,Clothing,11-08-2024,First Time Reporter,Housekeeping,Medium,Good,Covered,High Traffic,Sunny,During Event,Yes
+Watch,"Heath, Meyer and Hickman",DarkBlue,Library,07-08-2023,13-07-2023,Books,28-07-2023,Repeat Reporter,Security,High,Excellent,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Necklace,"Harvey, Morse and Ball",DarkOliveGreen,Park,16-08-2024,19-07-2024,Electronics,09-08-2024,First Time Reporter,Housekeeping,Low,Good,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Headphones,-,LightSlateGray,Student Union,18-09-2024,12-09-2024,Sporting Goods,17-09-2024,First Time Reporter,Security,Medium,Excellent,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Scarf,"Ayers, Wright and Ramirez",Thistle,Bus Stop,04-07-2023,26-06-2023,Clothing,30-06-2023,First Time Reporter,None,Low,Excellent,Not Covered,High Traffic,Sunny,Normal Day,No
+Wallet,-,NavajoWhite,Cafeteria,04-01-2024,07-12-2023,Clothing,21-12-2023,First Time Reporter,Security,Low,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Keys,Zimmerman and Sons,LightSkyBlue,Bus Stop,11-08-2024,25-07-2024,Personal Accessories,29-07-2024,Repeat Reporter,Security,Medium,Excellent,Covered,High Traffic,Rainy,During Event,No
+Sunglasses,"Deleon, Thornton and Bonilla",SpringGreen,Cafeteria,26-02-2024,31-01-2024,Books,11-02-2024,Repeat Reporter,None,High,Damaged,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Gloves,Hernandez-Ford,LightYellow,Library Study Room,23-01-2023,26-12-2022,Clothing,02-01-2023,Repeat Reporter,Housekeeping,Low,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Earbuds,-,Coral,Student Union,30-05-2023,21-05-2023,Sporting Goods,29-05-2023,First Time Reporter,Information Desk,Medium,Excellent,Not Covered,Low Traffic,Sunny,Normal Day,No
+Hat,"Galloway, Mcgrath and Miller",LightBlue,Outdoor Patio,16-03-2024,15-03-2024,Personal Accessories,15-03-2024,Repeat Reporter,None,Low,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Hat,-,Aquamarine,Computer Lab,09-03-2023,01-03-2023,Sporting Goods,09-03-2023,Repeat Reporter,Security,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Notebook,"Williams, Chavez and Meyers",DarkMagenta,Library,26-06-2023,30-05-2023,Clothing,09-06-2023,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Watch,Douglas-Davis,DodgerBlue,Gym,11-08-2023,03-08-2023,Sporting Goods,08-08-2023,Repeat Reporter,Housekeeping,Low,Good,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Laptop,"Nelson, Vaughn and Cooper",Orange,Quad,05-05-2023,01-05-2023,Electronics,02-05-2023,Repeat Reporter,Housekeeping,High,Good,Not Covered,Moderate Traffic,Snowy,Normal Day,No
+Cell Phone,"Wheeler, Watson and Roberts",SkyBlue,Cafeteria,31-08-2024,15-08-2024,Books,26-08-2024,First Time Reporter,Housekeeping,High,Damaged,Not Covered,High Traffic,Cloudy,During Event,No
+Sunglasses,-,LightSteelBlue,Baseball Field,09-12-2024,21-11-2024,Personal Accessories,08-12-2024,First Time Reporter,None,High,Excellent,Covered,Moderate Traffic,Snowy,During Event,No
+Headphones,-,PowderBlue,Football Stadium,25-02-2023,03-02-2023,Clothing,04-02-2023,Repeat Reporter,Security,Medium,Excellent,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Keys,-,White,Shopping Mall,23-08-2023,19-08-2023,Personal Accessories,19-08-2023,Repeat Reporter,None,High,Excellent,Covered,Low Traffic,Cloudy,Normal Day,No
+Book,Wright-Gardner,Red,Rooftop Bar,13-06-2024,01-06-2024,Books,10-06-2024,Repeat Reporter,Security,Medium,Excellent,Not Covered,High Traffic,Snowy,Normal Day,No
+Sunglasses,-,DarkKhaki,Library Stacks,18-12-2024,25-11-2024,Books,09-12-2024,Repeat Reporter,Housekeeping,High,Damaged,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Necklace,-,Tomato,Bus Ride,16-06-2024,27-05-2024,Electronics,07-06-2024,First Time Reporter,Housekeeping,Medium,Excellent,Covered,High Traffic,Sunny,During Event,Yes
+ID Card,Ellis Group,DarkMagenta,Coffee Shop,16-08-2023,29-07-2023,Personal Accessories,02-08-2023,Repeat Reporter,Housekeeping,High,Good,Not Covered,Low Traffic,Snowy,During Event,No
+Tablet,-,White,Park,24-05-2023,20-05-2023,Books,24-05-2023,First Time Reporter,Security,High,Good,Covered,High Traffic,Snowy,During Event,Yes
+Tablet,"Pierce, Cobb and Lopez",BurlyWood,Classroom 303,28-02-2024,05-02-2024,Books,05-02-2024,First Time Reporter,Information Desk,High,Good,Not Covered,Low Traffic,Cloudy,During Event,No
+Charger,-,Gold,Student Lounge,04-04-2024,30-03-2024,Electronics,02-04-2024,Repeat Reporter,Housekeeping,High,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Charger,-,Maroon,Dormitory Lounge,19-11-2023,08-11-2023,Personal Accessories,12-11-2023,First Time Reporter,Information Desk,High,Excellent,Covered,Low Traffic,Rainy,During Event,No
+Necklace,-,LightGreen,Soccer Field,08-04-2023,25-03-2023,Sporting Goods,28-03-2023,First Time Reporter,Information Desk,Medium,Good,Covered,High Traffic,Sunny,Normal Day,Yes
+Book,-,DarkOrange,Science Building,06-04-2023,25-03-2023,Personal Accessories,26-03-2023,Repeat Reporter,Housekeeping,Low,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Earbuds,"Stevens, Vargas and Smith",GoldenRod,Hiking Trail,24-05-2023,04-05-2023,Books,12-05-2023,First Time Reporter,None,Medium,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Backpack,-,Navy,Student Center,14-02-2024,30-01-2024,Clothing,10-02-2024,Repeat Reporter,Housekeeping,Medium,Good,Covered,Low Traffic,Sunny,Normal Day,No
+Cell Phone,"Hickman, Brown and Smith",BlanchedAlmond,Outdoor Concert Venue,10-08-2023,12-07-2023,Personal Accessories,06-08-2023,Repeat Reporter,Housekeeping,High,Excellent,Covered,Low Traffic,Rainy,During Event,Yes
+Wallet,"Baker, James and Beck",LightSalmon,Library,18-12-2023,10-12-2023,Personal Accessories,12-12-2023,Repeat Reporter,Information Desk,High,Damaged,Not Covered,Low Traffic,Rainy,During Event,Yes
+Earbuds,"Spears, Carpenter and Campbell",SlateGray,Classroom 201,27-12-2024,14-12-2024,Personal Accessories,21-12-2024,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,Low Traffic,Rainy,During Event,Yes
+Tablet,"Martin, Williams and Sheppard",DarkOliveGreen,Library Study Room,31-10-2023,02-10-2023,Clothing,14-10-2023,First Time Reporter,None,High,Good,Not Covered,Moderate Traffic,Sunny,During Event,No
+Cell Phone,Petersen-Martin,Gold,Bus Stop,26-06-2024,08-06-2024,Electronics,14-06-2024,First Time Reporter,None,High,Excellent,Not Covered,High Traffic,Sunny,During Event,Yes
+Jacket,"Adkins, Gutierrez and Solis",DarkSlateBlue,Beach,24-05-2023,19-05-2023,Sporting Goods,23-05-2023,Repeat Reporter,Security,Low,Damaged,Not Covered,Low Traffic,Rainy,During Event,No
+Tablet,-,Maroon,Study Lounge,30-04-2024,26-04-2024,Clothing,30-04-2024,First Time Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Tablet,Stone-Montgomery,DarkGreen,Coffee Shop,28-05-2024,14-05-2024,Sporting Goods,22-05-2024,Repeat Reporter,Information Desk,Medium,Good,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Watch,-,PowderBlue,Library Entrance,19-12-2023,06-12-2023,Sporting Goods,12-12-2023,First Time Reporter,Information Desk,Low,Excellent,Covered,Moderate Traffic,Sunny,During Event,Yes
+Charger,-,MediumTurquoise,Bookstore,26-04-2024,22-04-2024,Sporting Goods,25-04-2024,Repeat Reporter,Housekeeping,Low,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Laptop,Johnston Ltd,FloralWhite,Gym,12-05-2024,01-05-2024,Personal Accessories,10-05-2024,First Time Reporter,Information Desk,Medium,Excellent,Covered,High Traffic,Snowy,During Event,No
+Coffee Mug,Yu-Lester,Aqua,Lecture Hall 104,16-02-2023,14-02-2023,Electronics,14-02-2023,First Time Reporter,Security,High,Good,Not Covered,Low Traffic,Snowy,During Event,Yes
+Water Bottle,"Griffin, Gregory and Burke",SpringGreen,Student Lounge,10-04-2024,21-03-2024,Electronics,29-03-2024,Repeat Reporter,Housekeeping,High,Excellent,Covered,Low Traffic,Sunny,During Event,Yes
+Wallet,"Lee, Wilson and Bowers",Yellow,Trailhead,08-04-2023,15-03-2023,Personal Accessories,19-03-2023,Repeat Reporter,Security,High,Damaged,Not Covered,High Traffic,Snowy,Normal Day,No
+Gloves,-,GreenYellow,Shopping Mall,18-08-2023,31-07-2023,Books,13-08-2023,Repeat Reporter,Security,Medium,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+Scarf,Adkins-Carter,MidnightBlue,Outdoor Concert Venue,11-07-2024,21-06-2024,Books,08-07-2024,First Time Reporter,None,Medium,Damaged,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Tumbler,-,Sienna,Library,02-08-2024,11-07-2024,Electronics,01-08-2024,Repeat Reporter,None,High,Good,Covered,Low Traffic,Sunny,Normal Day,No
+Headphones,Moore-Dudley,Wheat,Classroom 201,21-02-2023,05-02-2023,Personal Accessories,06-02-2023,First Time Reporter,Housekeeping,High,Good,Covered,High Traffic,Snowy,Normal Day,Yes
+Backpack,"Sharp, Dixon and Knight",BlueViolet,Library Study Room,21-04-2024,16-04-2024,Books,18-04-2024,Repeat Reporter,Information Desk,High,Good,Covered,Moderate Traffic,Snowy,During Event,Yes
+Gloves,-,Silver,Bus Stop,17-05-2023,20-04-2023,Sporting Goods,21-04-2023,Repeat Reporter,Security,Low,Excellent,Not Covered,High Traffic,Snowy,Normal Day,No
+Cell Phone,-,Tan,Beach,21-05-2024,27-04-2024,Personal Accessories,21-05-2024,Repeat Reporter,None,High,Damaged,Not Covered,Low Traffic,Sunny,During Event,Yes
+Notebook,Hartman Inc,Moccasin,Study Lounge,26-02-2024,28-01-2024,Electronics,05-02-2024,Repeat Reporter,None,Low,Good,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Water Bottle,-,MidnightBlue,Coffee Shop,13-02-2023,23-01-2023,Books,13-02-2023,Repeat Reporter,None,Low,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Phone Charger,-,Yellow,Library Entrance,02-11-2024,08-10-2024,Personal Accessories,08-10-2024,First Time Reporter,Information Desk,High,Damaged,Not Covered,Moderate Traffic,Snowy,Normal Day,No
+Hat,-,SaddleBrown,Bookstore,22-02-2023,27-01-2023,Personal Accessories,21-02-2023,Repeat Reporter,Housekeeping,High,Damaged,Covered,Low Traffic,Rainy,Normal Day,Yes
+Phone Charger,Hill Ltd,SkyBlue,Gym,28-09-2023,09-09-2023,Clothing,14-09-2023,First Time Reporter,Security,Low,Good,Not Covered,Low Traffic,Sunny,During Event,Yes
+Water Bottle,Weber-James,HotPink,Lecture Hall 104,31-08-2024,03-08-2024,Electronics,31-08-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Snowy,During Event,No
+Gloves,-,Chartreuse,Student Lounge,08-05-2023,10-04-2023,Electronics,21-04-2023,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,High Traffic,Sunny,During Event,No
+Necklace,Miller-Hughes,HoneyDew,Trailhead,24-03-2023,28-02-2023,Books,15-03-2023,First Time Reporter,Security,High,Good,Covered,Moderate Traffic,Rainy,During Event,Yes
+Sunglasses,-,MediumSeaGreen,Shopping Mall,18-10-2023,03-10-2023,Sporting Goods,12-10-2023,Repeat Reporter,Information Desk,High,Excellent,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Sunglasses,-,LightCyan,Library,10-08-2023,06-08-2023,Books,08-08-2023,Repeat Reporter,None,High,Excellent,Not Covered,High Traffic,Snowy,During Event,Yes
+Wallet,Lutz-Rhodes,DarkSlateBlue,Cafeteria,23-09-2023,14-09-2023,Electronics,14-09-2023,Repeat Reporter,None,Medium,Excellent,Not Covered,High Traffic,Snowy,During Event,No
+Scarf,-,LawnGreen,Lecture Hall 102,02-11-2024,25-10-2024,Electronics,28-10-2024,First Time Reporter,Information Desk,High,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Jacket,-,DarkGoldenRod,Student Center,25-11-2023,27-10-2023,Books,11-11-2023,First Time Reporter,Housekeeping,High,Good,Covered,Low Traffic,Rainy,Normal Day,Yes
+Phone Charger,Hunt LLC,FloralWhite,Gym Locker Room,06-05-2024,24-04-2024,Clothing,26-04-2024,Repeat Reporter,None,Medium,Good,Not Covered,High Traffic,Cloudy,Normal Day,No
+Hat,Bennett-Dodson,Violet,Bus Stop,05-06-2024,30-05-2024,Clothing,05-06-2024,Repeat Reporter,Information Desk,Medium,Good,Not Covered,Low Traffic,Cloudy,During Event,No
+Necklace,"Marquez, Campbell and Jordan",Linen,Classroom 204,09-12-2024,16-11-2024,Books,09-12-2024,First Time Reporter,Housekeeping,High,Damaged,Covered,Moderate Traffic,Sunny,During Event,Yes
+Necklace,-,GoldenRod,Science Building,08-10-2023,22-09-2023,Personal Accessories,01-10-2023,First Time Reporter,Housekeeping,High,Excellent,Covered,Low Traffic,Sunny,During Event,No
+Earbuds,Flores-Garza,Lime,Quad,08-05-2023,09-04-2023,Clothing,29-04-2023,Repeat Reporter,Security,High,Good,Covered,High Traffic,Rainy,During Event,Yes
+Scarf,-,SlateGray,Dormitory Lounge,17-01-2023,20-12-2022,Clothing,30-12-2022,Repeat Reporter,None,High,Good,Covered,Moderate Traffic,Snowy,Normal Day,No
+Cell Phone,-,LimeGreen,Outdoor Amphitheater,05-09-2023,23-08-2023,Personal Accessories,30-08-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Keys,-,DarkOliveGreen,Library Study Room,30-06-2024,14-06-2024,Personal Accessories,23-06-2024,Repeat Reporter,Housekeeping,Medium,Good,Covered,High Traffic,Cloudy,Normal Day,Yes
+Earbuds,-,Aquamarine,Coffee Shop,06-09-2024,09-08-2024,Sporting Goods,28-08-2024,Repeat Reporter,Housekeeping,High,Excellent,Not Covered,Moderate Traffic,Sunny,Normal Day,No
+Watch,Whitney Group,Beige,Basketball Court,25-07-2024,04-07-2024,Clothing,10-07-2024,First Time Reporter,Housekeeping,Medium,Good,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Laptop,"Chapman, Deleon and Miller",ForestGreen,Park,30-06-2024,14-06-2024,Sporting Goods,17-06-2024,Repeat Reporter,Information Desk,Medium,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+ID Card,-,DimGray,Stadium Bleachers,12-05-2023,02-05-2023,Clothing,12-05-2023,Repeat Reporter,Information Desk,Medium,Damaged,Covered,High Traffic,Rainy,During Event,No
+Backpack,Hicks-Jenkins,DarkSlateGray,Common Area,13-10-2024,22-09-2024,Sporting Goods,12-10-2024,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,High Traffic,Sunny,Normal Day,No
+Coffee Mug,"Neal, Baker and Cook",Salmon,Fitness Center,16-08-2024,24-07-2024,Books,06-08-2024,First Time Reporter,None,Medium,Damaged,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Phone Charger,-,LightGoldenRodYellow,Cafeteria,14-02-2023,06-02-2023,Personal Accessories,14-02-2023,Repeat Reporter,Information Desk,High,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Headphones,"Burns, Ramirez and Dillon",Red,Skate Park,03-03-2023,11-02-2023,Electronics,01-03-2023,First Time Reporter,Information Desk,High,Good,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Cell Phone,-,Lavender,Library Stacks,28-11-2024,03-11-2024,Clothing,09-11-2024,Repeat Reporter,Information Desk,Medium,Good,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Hat,-,LightCyan,Art Studio,03-04-2023,18-03-2023,Personal Accessories,25-03-2023,Repeat Reporter,None,Medium,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Notebook,Greene-Wallace,LightCyan,Student Lounge,23-08-2023,28-07-2023,Sporting Goods,13-08-2023,Repeat Reporter,Security,High,Damaged,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Keys,Lynch-Peterson,DarkGoldenRod,Auditorium,27-01-2024,09-01-2024,Clothing,13-01-2024,First Time Reporter,Information Desk,High,Excellent,Covered,High Traffic,Cloudy,Normal Day,No
+Phone Charger,-,AntiqueWhite,Bus Station,07-05-2024,16-04-2024,Books,30-04-2024,Repeat Reporter,Housekeeping,Medium,Good,Not Covered,Low Traffic,Sunny,During Event,Yes
+Tumbler,Hood and Sons,DeepPink,Soccer Field,17-08-2023,06-08-2023,Books,17-08-2023,First Time Reporter,Housekeeping,High,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Scarf,-,Yellow,Chemistry Lab,03-09-2024,15-08-2024,Sporting Goods,18-08-2024,First Time Reporter,Housekeeping,Medium,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+Notebook,-,DarkOrange,Outdoor Concert Venue,26-10-2023,03-10-2023,Clothing,25-10-2023,First Time Reporter,Information Desk,High,Damaged,Not Covered,High Traffic,Cloudy,During Event,No
+Necklace,Morgan PLC,LightCoral,Study Lounge,17-09-2024,23-08-2024,Electronics,31-08-2024,Repeat Reporter,Security,Medium,Good,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Backpack,"Mccoy, Mason and Rodriguez",Cornsilk,Beach,22-07-2024,29-06-2024,Clothing,19-07-2024,First Time Reporter,None,Low,Damaged,Not Covered,High Traffic,Rainy,During Event,Yes
+Necklace,"Parker, Watson and Harris",GoldenRod,Dormitory Hallway,16-06-2024,31-05-2024,Books,13-06-2024,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Headphones,-,LightGreen,Lecture Hall Lobby,08-08-2023,22-07-2023,Clothing,02-08-2023,First Time Reporter,Security,Medium,Damaged,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Backpack,Bennett Inc,OldLace,Bookstore,21-05-2023,02-05-2023,Electronics,10-05-2023,Repeat Reporter,Security,Medium,Excellent,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Scarf,Ross PLC,Cyan,Music Studio,10-06-2024,13-05-2024,Electronics,17-05-2024,Repeat Reporter,Security,High,Excellent,Covered,High Traffic,Snowy,Normal Day,No
+Umbrella,"Stevens, Hall and Gonzalez",Gray,Computer Lab,10-11-2023,29-10-2023,Clothing,06-11-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,During Event,No
+Keys,-,SeaGreen,Botanical Garden,20-07-2023,20-06-2023,Books,07-07-2023,First Time Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Sunny,Normal Day,Yes
+Watch,Newton LLC,Pink,Theme Park Entrance,29-06-2023,13-06-2023,Clothing,29-06-2023,First Time Reporter,None,Low,Excellent,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Charger,-,DarkSlateBlue,Shopping Mall,15-02-2024,02-02-2024,Personal Accessories,02-02-2024,First Time Reporter,None,Low,Excellent,Not Covered,Low Traffic,Snowy,During Event,No
+Gloves,"Palmer, Garza and Hart",Chartreuse,Rooftop Bar,01-03-2023,09-02-2023,Clothing,22-02-2023,First Time Reporter,Security,High,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,No
+Coffee Mug,-,Brown,Gym,23-08-2024,14-08-2024,Electronics,20-08-2024,First Time Reporter,None,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Wallet,-,RoyalBlue,Ice Skating Rink,24-12-2023,04-12-2023,Personal Accessories,22-12-2023,First Time Reporter,Security,Low,Damaged,Covered,Low Traffic,Snowy,During Event,Yes
+Laptop,Evans Inc,LawnGreen,Student Center,01-01-2023,06-12-2022,Books,31-12-2022,First Time Reporter,Security,Low,Excellent,Covered,Moderate Traffic,Snowy,During Event,Yes
+Scarf,Wyatt-Dunlap,LightSalmon,Coffee Shop Patio,21-08-2023,17-08-2023,Books,18-08-2023,First Time Reporter,Information Desk,High,Damaged,Covered,High Traffic,Cloudy,Normal Day,Yes
+Watch,-,MediumTurquoise,Rooftop Pool,28-06-2023,16-06-2023,Clothing,16-06-2023,Repeat Reporter,Housekeeping,Medium,Damaged,Not Covered,High Traffic,Sunny,During Event,No
+Phone Charger,-,DarkGray,Campus Trail,27-06-2024,29-05-2024,Clothing,09-06-2024,First Time Reporter,Security,Low,Good,Not Covered,Low Traffic,Cloudy,Normal Day,No
+Watch,-,Ivory,Stadium Stands,28-06-2024,22-06-2024,Sporting Goods,28-06-2024,First Time Reporter,None,Medium,Damaged,Not Covered,High Traffic,Rainy,During Event,No
+Cell Phone,Campbell LLC,Sienna,Study Lounge,10-01-2024,26-12-2023,Electronics,10-01-2024,First Time Reporter,Information Desk,Medium,Excellent,Covered,High Traffic,Sunny,During Event,Yes
+Tumbler,Moore LLC,LightBlue,Library,08-01-2024,24-12-2023,Personal Accessories,05-01-2024,Repeat Reporter,Information Desk,Low,Damaged,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Keys,Haas-Cooper,DarkOrchid,Park,02-04-2024,27-03-2024,Electronics,31-03-2024,First Time Reporter,Information Desk,High,Damaged,Not Covered,Moderate Traffic,Sunny,Normal Day,No
+Watch,Jones Inc,Lavender,Student Union,08-06-2024,07-06-2024,Sporting Goods,07-06-2024,First Time Reporter,None,Medium,Damaged,Covered,Low Traffic,Rainy,Normal Day,No
+Wallet,-,MediumPurple,Bus Stop,14-04-2023,19-03-2023,Electronics,03-04-2023,First Time Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Keys,-,CornflowerBlue,Cafeteria,26-09-2023,21-09-2023,Personal Accessories,26-09-2023,First Time Reporter,Housekeeping,Low,Good,Not Covered,Low Traffic,Snowy,During Event,No
+Tablet,Hood PLC,DarkMagenta,Bus Stop,16-02-2023,12-02-2023,Clothing,14-02-2023,First Time Reporter,Security,Low,Damaged,Covered,Low Traffic,Rainy,Normal Day,No
+Tablet,-,White,Cafeteria,10-03-2024,27-02-2024,Sporting Goods,28-02-2024,First Time Reporter,Housekeeping,Low,Excellent,Covered,High Traffic,Rainy,During Event,Yes
+Keys,-,LimeGreen,Library Study Room,11-07-2023,17-06-2023,Electronics,02-07-2023,Repeat Reporter,Housekeeping,High,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Notebook,-,DarkOrange,Student Union,10-01-2023,08-01-2023,Personal Accessories,09-01-2023,Repeat Reporter,Information Desk,Medium,Good,Covered,Low Traffic,Snowy,Normal Day,Yes
+Scarf,-,DeepPink,Outdoor Patio,20-02-2024,03-02-2024,Clothing,11-02-2024,Repeat Reporter,Security,Low,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Gloves,-,DeepPink,Computer Lab,22-03-2024,21-03-2024,Clothing,21-03-2024,First Time Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+Earbuds,Bowen Inc,DimGray,Library,30-09-2023,14-09-2023,Sporting Goods,22-09-2023,Repeat Reporter,Security,Low,Damaged,Covered,High Traffic,Snowy,During Event,No
+Water Bottle,Hill-Daniel,Silver,Gym,07-04-2024,22-03-2024,Electronics,25-03-2024,Repeat Reporter,None,High,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Book,-,DarkOrchid,Quad,24-06-2023,07-06-2023,Clothing,15-06-2023,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Snowy,During Event,Yes
+Coffee Mug,-,Beige,Cafeteria,09-12-2024,23-11-2024,Books,01-12-2024,First Time Reporter,None,High,Excellent,Covered,Moderate Traffic,Snowy,During Event,Yes
+Wallet,-,Navy,Baseball Field,25-04-2024,17-04-2024,Personal Accessories,23-04-2024,Repeat Reporter,Housekeeping,High,Excellent,Covered,Low Traffic,Rainy,Normal Day,Yes
+Headphones,Garrison-Ball,DarkViolet,Football Stadium,28-07-2023,09-07-2023,Clothing,26-07-2023,Repeat Reporter,None,Low,Excellent,Covered,Low Traffic,Rainy,During Event,No
+Tablet,-,Maroon,Shopping Mall,03-04-2024,21-03-2024,Personal Accessories,26-03-2024,Repeat Reporter,Information Desk,Low,Excellent,Covered,Moderate Traffic,Snowy,During Event,Yes
+Earbuds,-,SkyBlue,Rooftop Bar,20-09-2023,12-09-2023,Electronics,14-09-2023,Repeat Reporter,Information Desk,High,Excellent,Not Covered,High Traffic,Rainy,During Event,Yes
+Earbuds,-,OldLace,Library Stacks,12-04-2023,15-03-2023,Electronics,18-03-2023,First Time Reporter,Housekeeping,Low,Damaged,Covered,Low Traffic,Cloudy,During Event,No
+Wallet,Weaver PLC,SkyBlue,Bus Ride,29-07-2024,07-07-2024,Sporting Goods,25-07-2024,Repeat Reporter,Information Desk,Low,Good,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Keys,"Kennedy, Rogers and Monroe",Moccasin,Coffee Shop,21-02-2023,19-02-2023,Personal Accessories,19-02-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+ID Card,-,MidnightBlue,Park,25-07-2024,06-07-2024,Sporting Goods,13-07-2024,Repeat Reporter,None,High,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Phone Charger,"Mckenzie, Macdonald and Johnson",SaddleBrown,Classroom 303,20-06-2023,15-06-2023,Books,15-06-2023,Repeat Reporter,None,Low,Damaged,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Watch,Fisher Inc,DarkGreen,Student Lounge,19-08-2024,02-08-2024,Clothing,05-08-2024,First Time Reporter,Security,Medium,Good,Not Covered,High Traffic,Rainy,During Event,Yes
+Gloves,Hudson-Lopez,MediumAquaMarine,Dormitory Lounge,31-01-2023,08-01-2023,Books,19-01-2023,First Time Reporter,None,Medium,Excellent,Covered,High Traffic,Sunny,Normal Day,Yes
+Charger,-,DarkSalmon,Soccer Field,21-01-2024,18-01-2024,Books,21-01-2024,Repeat Reporter,Security,Medium,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Gloves,"Bonilla, Sanchez and Garcia",MintCream,Science Building,30-11-2024,13-11-2024,Clothing,21-11-2024,Repeat Reporter,Housekeeping,Medium,Excellent,Covered,Low Traffic,Cloudy,Normal Day,No
+Laptop,-,Fuchsia,Hiking Trail,19-09-2024,20-08-2024,Electronics,17-09-2024,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Charger,-,HoneyDew,Student Center,21-06-2023,25-05-2023,Electronics,01-06-2023,Repeat Reporter,None,High,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Umbrella,-,DeepSkyBlue,Outdoor Concert Venue,17-03-2023,27-02-2023,Books,13-03-2023,First Time Reporter,None,High,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Notebook,-,Aqua,Library,22-10-2024,16-10-2024,Sporting Goods,19-10-2024,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Keys,-,DarkSeaGreen,Classroom 201,21-02-2023,13-02-2023,Electronics,18-02-2023,Repeat Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Sunny,During Event,Yes
+Cell Phone,-,Teal,Library Study Room,05-11-2023,03-11-2023,Personal Accessories,03-11-2023,Repeat Reporter,None,Medium,Damaged,Covered,High Traffic,Cloudy,During Event,Yes
+Water Bottle,Miller LLC,Purple,Bus Stop,15-02-2023,28-01-2023,Electronics,07-02-2023,Repeat Reporter,Housekeeping,High,Good,Covered,High Traffic,Snowy,Normal Day,No
+Earbuds,Young-Sweeney,CornflowerBlue,Beach,15-01-2023,26-12-2022,Personal Accessories,01-01-2023,First Time Reporter,None,Medium,Damaged,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Book,Erickson PLC,Black,Study Lounge,29-09-2023,17-09-2023,Books,26-09-2023,First Time Reporter,Housekeeping,Medium,Excellent,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Necklace,"Hernandez, Webb and Lara",LightGray,Coffee Shop,07-07-2024,21-06-2024,Electronics,27-06-2024,Repeat Reporter,Security,High,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Umbrella,-,Gold,Library Entrance,04-10-2024,29-09-2024,Sporting Goods,04-10-2024,First Time Reporter,Security,Medium,Good,Covered,Moderate Traffic,Rainy,During Event,No
+Earbuds,"Burton, Johnson and Blanchard",LightSalmon,Bookstore,22-02-2023,09-02-2023,Personal Accessories,20-02-2023,Repeat Reporter,Information Desk,High,Damaged,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+ID Card,"Santiago, Summers and Roberson",Tomato,Gym,07-11-2023,21-10-2023,Electronics,21-10-2023,First Time Reporter,Security,Medium,Excellent,Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Backpack,-,Turquoise,Lecture Hall 104,11-02-2023,29-01-2023,Sporting Goods,04-02-2023,First Time Reporter,Housekeeping,High,Good,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Notebook,Bradford-Hensley,Violet,Student Lounge,28-07-2024,24-07-2024,Sporting Goods,25-07-2024,Repeat Reporter,Housekeeping,Medium,Damaged,Covered,Low Traffic,Sunny,Normal Day,No
+Watch,"Ramirez, Le and Rogers",OldLace,Trailhead,08-01-2023,22-12-2022,Books,08-01-2023,Repeat Reporter,Security,Low,Damaged,Not Covered,High Traffic,Cloudy,During Event,Yes
+Tumbler,"Watkins, Morgan and Cruz",PapayaWhip,Shopping Mall,28-03-2023,13-03-2023,Sporting Goods,16-03-2023,Repeat Reporter,Security,High,Damaged,Covered,High Traffic,Rainy,Normal Day,No
+Earbuds,-,Purple,Library,07-03-2024,03-03-2024,Personal Accessories,06-03-2024,First Time Reporter,Information Desk,Medium,Excellent,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Phone Charger,Flowers PLC,YellowGreen,Cafeteria,21-11-2023,06-11-2023,Personal Accessories,20-11-2023,Repeat Reporter,Information Desk,Low,Excellent,Not Covered,High Traffic,Rainy,During Event,Yes
+Tablet,Davis PLC,LightCyan,Lecture Hall 102,28-11-2024,07-11-2024,Books,15-11-2024,First Time Reporter,Information Desk,Low,Excellent,Not Covered,High Traffic,Cloudy,During Event,Yes
+Water Bottle,"Carson, Shaffer and Wall",YellowGreen,Student Center,21-11-2024,12-11-2024,Personal Accessories,17-11-2024,Repeat Reporter,Security,High,Damaged,Not Covered,High Traffic,Snowy,During Event,Yes
+Water Bottle,-,CadetBlue,Gym Locker Room,13-03-2023,16-02-2023,Clothing,24-02-2023,Repeat Reporter,Security,High,Damaged,Covered,High Traffic,Cloudy,During Event,Yes
+Watch,-,LawnGreen,Bus Stop,09-03-2023,09-02-2023,Sporting Goods,17-02-2023,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Necklace,Hill-Carpenter,PaleVioletRed,Classroom 204,23-09-2023,16-09-2023,Sporting Goods,18-09-2023,Repeat Reporter,Security,Low,Good,Not Covered,High Traffic,Cloudy,Normal Day,No
+Necklace,-,Chocolate,Science Building,14-05-2023,13-05-2023,Clothing,13-05-2023,Repeat Reporter,Information Desk,Medium,Damaged,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Backpack,Osborne PLC,DarkGoldenRod,Quad,14-05-2024,02-05-2024,Sporting Goods,05-05-2024,Repeat Reporter,Housekeeping,High,Excellent,Covered,Moderate Traffic,Rainy,During Event,Yes
+Backpack,Russell-Miller,MidnightBlue,Dormitory Lounge,28-11-2024,16-11-2024,Electronics,23-11-2024,Repeat Reporter,Housekeeping,Low,Damaged,Covered,High Traffic,Snowy,Normal Day,Yes
+Cell Phone,-,SlateGray,Outdoor Amphitheater,12-09-2024,19-08-2024,Books,04-09-2024,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,High Traffic,Cloudy,During Event,Yes
+Keys,-,Orchid,Library Study Room,21-05-2023,26-04-2023,Books,30-04-2023,Repeat Reporter,None,High,Good,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Earbuds,Hughes-Medina,DarkViolet,Coffee Shop,24-05-2024,16-05-2024,Books,20-05-2024,First Time Reporter,None,Low,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Laptop,"Nguyen, Hoover and Pacheco",Aquamarine,Basketball Court,09-07-2024,03-07-2024,Sporting Goods,06-07-2024,Repeat Reporter,None,Medium,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Phone Charger,-,Yellow,Park,10-06-2024,09-06-2024,Sporting Goods,10-06-2024,First Time Reporter,Housekeeping,High,Excellent,Covered,Moderate Traffic,Sunny,Normal Day,No
+Watch,-,SaddleBrown,Stadium Bleachers,31-08-2024,25-08-2024,Clothing,29-08-2024,Repeat Reporter,Housekeeping,Low,Good,Covered,Moderate Traffic,Rainy,Normal Day,No
+Earbuds,Lee Ltd,Pink,Common Area,14-06-2024,07-06-2024,Clothing,08-06-2024,First Time Reporter,Information Desk,Medium,Excellent,Covered,Low Traffic,Sunny,Normal Day,Yes
+Water Bottle,-,Khaki,Fitness Center,29-06-2023,13-06-2023,Personal Accessories,16-06-2023,First Time Reporter,None,High,Damaged,Covered,Low Traffic,Snowy,Normal Day,Yes
+Notebook,-,LavenderBlush,Cafeteria,06-01-2023,16-12-2022,Sporting Goods,04-01-2023,First Time Reporter,Security,High,Good,Covered,High Traffic,Sunny,During Event,Yes
+Necklace,"Goodwin, Rogers and Hamilton",Aquamarine,Skate Park,23-06-2024,20-06-2024,Clothing,20-06-2024,Repeat Reporter,Security,Low,Excellent,Covered,Moderate Traffic,Snowy,During Event,Yes
+Notebook,Crosby-Russell,DarkGoldenRod,Library Stacks,03-08-2023,16-07-2023,Personal Accessories,26-07-2023,Repeat Reporter,None,Medium,Excellent,Covered,Low Traffic,Cloudy,During Event,Yes
+Keys,"Jimenez, Harris and Bryant",SlateBlue,Art Studio,13-06-2024,26-05-2024,Personal Accessories,03-06-2024,First Time Reporter,Housekeeping,Medium,Good,Not Covered,Low Traffic,Sunny,During Event,Yes
+Phone Charger,-,HoneyDew,Student Lounge,11-05-2024,24-04-2024,Personal Accessories,09-05-2024,Repeat Reporter,Security,Medium,Excellent,Not Covered,Moderate Traffic,Rainy,Normal Day,No
+Book,-,Gold,Auditorium,01-12-2024,12-11-2024,Personal Accessories,29-11-2024,Repeat Reporter,Information Desk,Low,Good,Not Covered,Low Traffic,Snowy,During Event,Yes
+Gloves,"Park, Neal and Torres",Magenta,Bus Station,07-10-2024,23-09-2024,Books,05-10-2024,First Time Reporter,Housekeeping,Medium,Excellent,Covered,High Traffic,Snowy,Normal Day,Yes
+Laptop,-,OldLace,Soccer Field,16-08-2023,17-07-2023,Sporting Goods,16-08-2023,Repeat Reporter,Security,Low,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Water Bottle,-,BlanchedAlmond,Chemistry Lab,15-04-2023,23-03-2023,Books,10-04-2023,First Time Reporter,Housekeeping,Low,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+Tablet,-,Linen,Outdoor Concert Venue,19-03-2023,15-03-2023,Books,18-03-2023,Repeat Reporter,Information Desk,Medium,Good,Covered,High Traffic,Cloudy,Normal Day,Yes
+Earbuds,-,DarkGray,Study Lounge,12-04-2024,24-03-2024,Personal Accessories,27-03-2024,First Time Reporter,None,Medium,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Phone Charger,Spencer Ltd,Coral,Beach,25-08-2023,13-08-2023,Personal Accessories,17-08-2023,First Time Reporter,Security,Medium,Excellent,Covered,High Traffic,Rainy,Normal Day,Yes
+Charger,-,SaddleBrown,Dormitory Hallway,20-01-2023,19-01-2023,Books,19-01-2023,Repeat Reporter,Security,High,Excellent,Covered,Low Traffic,Cloudy,During Event,No
+Earbuds,-,LightYellow,Lecture Hall Lobby,07-04-2023,08-03-2023,Sporting Goods,11-03-2023,Repeat Reporter,Security,High,Excellent,Not Covered,Moderate Traffic,Snowy,Normal Day,Yes
+Jacket,-,RoyalBlue,Bookstore,24-11-2023,25-10-2023,Books,07-11-2023,First Time Reporter,Housekeeping,Low,Damaged,Covered,Moderate Traffic,Sunny,During Event,Yes
+ID Card,Carter Inc,LightGreen,Music Studio,25-05-2024,08-05-2024,Books,12-05-2024,Repeat Reporter,Security,Low,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+Coffee Mug,"Wood, Green and Smith",MintCream,Computer Lab,02-07-2024,01-07-2024,Personal Accessories,02-07-2024,First Time Reporter,None,Medium,Excellent,Covered,Low Traffic,Sunny,During Event,Yes
+ID Card,-,AntiqueWhite,Botanical Garden,04-07-2023,21-06-2023,Sporting Goods,28-06-2023,First Time Reporter,Security,Medium,Damaged,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Cell Phone,-,IndianRed,Theme Park Entrance,24-04-2024,11-04-2024,Books,23-04-2024,First Time Reporter,Information Desk,Low,Excellent,Covered,Moderate Traffic,Rainy,During Event,No
+Phone Charger,Welch-Morgan,DarkKhaki,Shopping Mall,06-03-2024,04-03-2024,Electronics,05-03-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,Low Traffic,Sunny,During Event,No
+Scarf,-,SteelBlue,Rooftop Bar,20-11-2024,30-10-2024,Clothing,04-11-2024,First Time Reporter,Housekeeping,High,Good,Covered,Moderate Traffic,Snowy,During Event,No
+Book,Clark-Rogers,LemonChiffon,Gym,18-02-2023,09-02-2023,Electronics,14-02-2023,Repeat Reporter,Housekeeping,Low,Damaged,Covered,High Traffic,Sunny,Normal Day,Yes
+Charger,Reynolds-Williams,SteelBlue,Ice Skating Rink,28-08-2024,01-08-2024,Clothing,27-08-2024,First Time Reporter,Information Desk,Medium,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+Earbuds,"Ho, Miller and Mckenzie",DodgerBlue,Student Center,11-02-2023,15-01-2023,Sporting Goods,17-01-2023,First Time Reporter,Security,Medium,Damaged,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Gloves,-,Chocolate,Coffee Shop Patio,21-04-2024,04-04-2024,Clothing,20-04-2024,Repeat Reporter,Housekeeping,High,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Watch,-,DarkViolet,Rooftop Pool,17-11-2023,27-10-2023,Sporting Goods,17-11-2023,Repeat Reporter,Security,High,Good,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Book,Ferrell Inc,Indigo,Campus Trail,01-05-2024,26-04-2024,Books,30-04-2024,Repeat Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+Earbuds,"Lawson, Ramos and Smith",Magenta,Stadium Stands,04-09-2023,25-08-2023,Sporting Goods,30-08-2023,Repeat Reporter,Information Desk,Medium,Good,Covered,Low Traffic,Cloudy,During Event,Yes
+Cell Phone,Aguilar Inc,MediumAquaMarine,Study Lounge,13-11-2023,07-11-2023,Clothing,12-11-2023,First Time Reporter,Housekeeping,Low,Excellent,Not Covered,Low Traffic,Rainy,Normal Day,Yes
+Notebook,"Charles, Dudley and Dixon",LightSteelBlue,Library,13-07-2024,22-06-2024,Electronics,23-06-2024,First Time Reporter,Information Desk,Medium,Damaged,Not Covered,Low Traffic,Snowy,During Event,Yes
+Book,Benson-Gibson,Lime,Park,02-04-2023,20-03-2023,Clothing,27-03-2023,Repeat Reporter,Information Desk,Low,Good,Covered,High Traffic,Sunny,During Event,Yes
+Umbrella,"Nichols, Kelley and Sanders",Indigo,Student Union,02-03-2023,20-02-2023,Books,02-03-2023,Repeat Reporter,Security,High,Good,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Charger,-,Crimson,Bus Stop,03-11-2024,06-10-2024,Books,23-10-2024,Repeat Reporter,None,Medium,Good,Not Covered,Low Traffic,Snowy,During Event,Yes
+Coffee Mug,-,LemonChiffon,Cafeteria,09-11-2023,23-10-2023,Clothing,31-10-2023,First Time Reporter,Information Desk,Low,Excellent,Not Covered,Moderate Traffic,Snowy,During Event,No
+Coffee Mug,Fleming-Green,SandyBrown,Bus Stop,21-08-2023,10-08-2023,Clothing,14-08-2023,Repeat Reporter,None,High,Excellent,Not Covered,High Traffic,Snowy,Normal Day,No
+Tumbler,-,LightGoldenRodYellow,Cafeteria,21-07-2023,24-06-2023,Clothing,17-07-2023,First Time Reporter,Security,Low,Damaged,Not Covered,High Traffic,Cloudy,During Event,Yes
+Sunglasses,Smith-Webster,Yellow,Library Study Room,30-11-2024,28-11-2024,Books,28-11-2024,Repeat Reporter,None,Medium,Excellent,Not Covered,Low Traffic,Sunny,During Event,Yes
+Necklace,"Williams, Hunt and Craig",SeaShell,Student Union,02-01-2024,11-12-2023,Books,22-12-2023,Repeat Reporter,Housekeeping,Low,Damaged,Covered,Low Traffic,Sunny,During Event,Yes
+Sunglasses,-,Red,Outdoor Patio,05-09-2024,08-08-2024,Sporting Goods,18-08-2024,First Time Reporter,Information Desk,Low,Good,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Keys,-,Azure,Computer Lab,09-10-2023,27-09-2023,Personal Accessories,27-09-2023,First Time Reporter,None,High,Good,Covered,Low Traffic,Sunny,Normal Day,Yes
+Cell Phone,-,DarkCyan,Library,21-08-2023,11-08-2023,Sporting Goods,20-08-2023,First Time Reporter,Information Desk,Medium,Damaged,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Scarf,-,Purple,Gym,07-11-2024,12-10-2024,Electronics,12-10-2024,First Time Reporter,None,Medium,Damaged,Covered,High Traffic,Sunny,During Event,Yes
+Jacket,Johnson-Allen,Magenta,Quad,16-02-2023,30-01-2023,Clothing,09-02-2023,Repeat Reporter,None,Low,Good,Covered,High Traffic,Snowy,During Event,Yes
+Watch,-,PowderBlue,Cafeteria,12-08-2023,06-08-2023,Books,10-08-2023,First Time Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Cloudy,During Event,Yes
+Backpack,-,LightSeaGreen,Baseball Field,03-11-2023,30-10-2023,Clothing,30-10-2023,Repeat Reporter,None,High,Good,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Keys,Medina-Gray,DeepSkyBlue,Football Stadium,03-05-2024,11-04-2024,Clothing,17-04-2024,First Time Reporter,Security,High,Damaged,Not Covered,High Traffic,Sunny,Normal Day,No
+Notebook,Ortega LLC,DarkViolet,Shopping Mall,19-07-2023,20-06-2023,Personal Accessories,15-07-2023,First Time Reporter,Security,Low,Excellent,Covered,Low Traffic,Rainy,During Event,No
+Backpack,"Reynolds, Sandoval and Hayes",DarkGreen,Rooftop Bar,27-10-2023,26-10-2023,Personal Accessories,27-10-2023,Repeat Reporter,Housekeeping,Medium,Excellent,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Phone Charger,-,LightSlateGray,Library Stacks,05-05-2023,17-04-2023,Clothing,17-04-2023,First Time Reporter,None,Low,Damaged,Not Covered,High Traffic,Rainy,During Event,No
+Necklace,-,Fuchsia,Bus Ride,08-03-2024,05-03-2024,Clothing,05-03-2024,First Time Reporter,None,Medium,Damaged,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Scarf,-,LemonChiffon,Coffee Shop,13-09-2024,16-08-2024,Clothing,08-09-2024,Repeat Reporter,None,Medium,Good,Covered,Low Traffic,Cloudy,Normal Day,No
+Cell Phone,"Singh, Ray and Roberts",Coral,Park,19-09-2024,20-08-2024,Sporting Goods,05-09-2024,Repeat Reporter,Housekeeping,High,Damaged,Covered,Moderate Traffic,Snowy,Normal Day,No
+Watch,Chaney-Marshall,DarkSlateBlue,Classroom 303,15-01-2023,30-12-2022,Clothing,30-12-2022,First Time Reporter,Information Desk,Low,Excellent,Not Covered,High Traffic,Snowy,Normal Day,Yes
+Coffee Mug,-,DarkOliveGreen,Student Lounge,12-06-2023,11-06-2023,Books,12-06-2023,First Time Reporter,Information Desk,High,Damaged,Not Covered,High Traffic,Rainy,Normal Day,Yes
+Wallet,-,LemonChiffon,Dormitory Lounge,07-06-2024,22-05-2024,Sporting Goods,31-05-2024,First Time Reporter,None,High,Damaged,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Tablet,-,Orchid,Soccer Field,24-07-2023,09-07-2023,Sporting Goods,09-07-2023,Repeat Reporter,Housekeeping,High,Damaged,Covered,High Traffic,Cloudy,During Event,Yes
+Wallet,Ramsey and Sons,RosyBrown,Science Building,31-08-2024,23-08-2024,Clothing,26-08-2024,Repeat Reporter,Housekeeping,High,Damaged,Covered,Moderate Traffic,Snowy,During Event,Yes
+Umbrella,Lee and Sons,DarkOrchid,Hiking Trail,25-08-2023,15-08-2023,Books,19-08-2023,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,High Traffic,Sunny,During Event,Yes
+Umbrella,-,Lavender,Student Center,29-01-2023,08-01-2023,Electronics,20-01-2023,First Time Reporter,Information Desk,Medium,Good,Covered,High Traffic,Sunny,Normal Day,Yes
+ID Card,Clay Inc,Yellow,Outdoor Concert Venue,27-08-2024,04-08-2024,Clothing,23-08-2024,First Time Reporter,Information Desk,Low,Good,Not Covered,High Traffic,Rainy,During Event,No
+Tablet,-,GreenYellow,Library,05-06-2023,26-05-2023,Electronics,05-06-2023,Repeat Reporter,Housekeeping,High,Damaged,Not Covered,Moderate Traffic,Snowy,During Event,No
+Book,-,Sienna,Classroom 201,24-06-2023,14-06-2023,Personal Accessories,22-06-2023,Repeat Reporter,Housekeeping,Low,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Backpack,Russo and Sons,FloralWhite,Library Study Room,11-03-2024,10-02-2024,Books,20-02-2024,Repeat Reporter,None,Low,Excellent,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Cell Phone,-,DarkCyan,Bus Stop,20-11-2024,16-11-2024,Books,18-11-2024,Repeat Reporter,Information Desk,Medium,Damaged,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Backpack,"Nichols, Jones and Larsen",Aqua,Beach,18-07-2024,17-07-2024,Electronics,17-07-2024,Repeat Reporter,Housekeeping,High,Good,Not Covered,High Traffic,Snowy,During Event,Yes
+Hat,Wood PLC,OrangeRed,Study Lounge,15-01-2024,24-12-2023,Sporting Goods,28-12-2023,First Time Reporter,Security,Low,Damaged,Covered,Moderate Traffic,Snowy,Normal Day,No
+Sunglasses,-,PaleTurquoise,Coffee Shop,01-04-2024,14-03-2024,Personal Accessories,18-03-2024,Repeat Reporter,Information Desk,High,Damaged,Covered,High Traffic,Sunny,Normal Day,Yes
+ID Card,Daniels PLC,LightYellow,Library Entrance,16-10-2023,03-10-2023,Personal Accessories,10-10-2023,Repeat Reporter,Information Desk,Low,Excellent,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Hat,-,IndianRed,Bookstore,18-10-2023,18-09-2023,Personal Accessories,28-09-2023,First Time Reporter,Security,Medium,Excellent,Not Covered,Low Traffic,Rainy,During Event,Yes
+Scarf,Jones-Robinson,OrangeRed,Gym,19-04-2024,09-04-2024,Sporting Goods,13-04-2024,First Time Reporter,Security,High,Damaged,Not Covered,Low Traffic,Cloudy,Normal Day,Yes
+Backpack,-,SteelBlue,Lecture Hall 104,24-03-2023,23-02-2023,Clothing,24-02-2023,Repeat Reporter,Housekeeping,Low,Damaged,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Hat,-,PapayaWhip,Student Lounge,11-11-2024,25-10-2024,Sporting Goods,25-10-2024,First Time Reporter,Information Desk,Medium,Damaged,Covered,High Traffic,Cloudy,Normal Day,No
+Phone Charger,-,Plum,Trailhead,04-04-2023,28-03-2023,Books,29-03-2023,Repeat Reporter,Housekeeping,Low,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+Jacket,Velasquez-Watkins,MintCream,Shopping Mall,05-04-2024,25-03-2024,Clothing,29-03-2024,First Time Reporter,Security,Low,Damaged,Covered,High Traffic,Snowy,During Event,Yes
+Watch,-,Khaki,Library,28-08-2023,23-08-2023,Books,25-08-2023,First Time Reporter,Housekeeping,Medium,Good,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Earbuds,-,SeaShell,Cafeteria,26-05-2023,19-05-2023,Electronics,19-05-2023,Repeat Reporter,Security,Medium,Good,Covered,High Traffic,Cloudy,Normal Day,No
+Cell Phone,Wilson-White,PaleGreen,Lecture Hall 102,28-11-2024,23-11-2024,Personal Accessories,28-11-2024,Repeat Reporter,Security,Low,Excellent,Not Covered,Low Traffic,Sunny,During Event,No
+Earbuds,"Marsh, Yu and Baker",AntiqueWhite,Student Center,27-08-2023,05-08-2023,Clothing,27-08-2023,Repeat Reporter,None,Medium,Damaged,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Cell Phone,-,DarkSalmon,Gym Locker Room,03-09-2023,12-08-2023,Clothing,25-08-2023,Repeat Reporter,Security,Medium,Good,Not Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Phone Charger,-,DodgerBlue,Bus Stop,10-09-2024,31-08-2024,Electronics,06-09-2024,First Time Reporter,Information Desk,High,Good,Covered,Low Traffic,Cloudy,Normal Day,Yes
+Keys,-,Aquamarine,Classroom 204,13-03-2023,06-03-2023,Books,08-03-2023,First Time Reporter,Housekeeping,Low,Excellent,Covered,Moderate Traffic,Sunny,During Event,Yes
+Keys,Williams and Sons,PaleTurquoise,Science Building,24-02-2023,26-01-2023,Clothing,27-01-2023,First Time Reporter,None,High,Good,Covered,High Traffic,Cloudy,During Event,No
+Umbrella,-,Pink,Quad,16-10-2024,06-10-2024,Personal Accessories,14-10-2024,First Time Reporter,Housekeeping,Medium,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+ID Card,"Sanders, Nichols and Lutz",LightCyan,Dormitory Lounge,28-12-2023,05-12-2023,Sporting Goods,08-12-2023,First Time Reporter,Security,High,Good,Covered,Low Traffic,Sunny,During Event,Yes
+Book,Rush-Simmons,OrangeRed,Outdoor Amphitheater,17-12-2023,19-11-2023,Personal Accessories,30-11-2023,First Time Reporter,None,Medium,Damaged,Not Covered,Low Traffic,Sunny,During Event,Yes
+Umbrella,-,Maroon,Library Study Room,26-12-2023,17-12-2023,Clothing,25-12-2023,First Time Reporter,None,Low,Excellent,Covered,Moderate Traffic,Cloudy,During Event,Yes
+Tablet,-,LightSkyBlue,Coffee Shop,09-09-2023,16-08-2023,Electronics,26-08-2023,Repeat Reporter,None,Medium,Good,Not Covered,Moderate Traffic,Snowy,During Event,Yes
+Tablet,-,RoyalBlue,Basketball Court,29-07-2023,12-07-2023,Personal Accessories,23-07-2023,Repeat Reporter,Housekeeping,Medium,Good,Not Covered,Moderate Traffic,Sunny,During Event,No
+Tablet,Romero-Jackson,Green,Park,17-03-2023,24-02-2023,Clothing,17-03-2023,Repeat Reporter,None,High,Damaged,Not Covered,High Traffic,Cloudy,Normal Day,Yes
+Watch,Smith-Taylor,MistyRose,Stadium Bleachers,04-06-2023,06-05-2023,Books,08-05-2023,Repeat Reporter,Security,Medium,Excellent,Not Covered,Low Traffic,Cloudy,During Event,Yes
+Water Bottle,"Beck, Boyd and Thomas",DarkSalmon,Common Area,03-09-2023,06-08-2023,Books,08-08-2023,First Time Reporter,Security,Low,Damaged,Not Covered,High Traffic,Cloudy,During Event,Yes
+Earbuds,-,LightBlue,Fitness Center,16-11-2023,25-10-2023,Personal Accessories,26-10-2023,First Time Reporter,None,High,Good,Not Covered,High Traffic,Sunny,During Event,Yes
+Umbrella,-,Aquamarine,Cafeteria,21-10-2023,02-10-2023,Sporting Goods,13-10-2023,Repeat Reporter,Information Desk,High,Damaged,Covered,Low Traffic,Rainy,Normal Day,Yes
+Phone Charger,-,Gray,Skate Park,21-03-2024,02-03-2024,Books,05-03-2024,First Time Reporter,Information Desk,Low,Damaged,Covered,High Traffic,Rainy,Normal Day,Yes
+Jacket,-,Silver,Library Stacks,22-03-2024,26-02-2024,Sporting Goods,19-03-2024,First Time Reporter,Information Desk,Low,Excellent,Covered,Moderate Traffic,Sunny,During Event,No
+Headphones,-,MistyRose,Art Studio,14-05-2023,15-04-2023,Electronics,11-05-2023,First Time Reporter,Security,Low,Good,Covered,High Traffic,Rainy,Normal Day,Yes
+ID Card,Ferguson and Sons,DeepPink,Student Lounge,31-01-2024,20-01-2024,Clothing,26-01-2024,First Time Reporter,None,High,Excellent,Covered,High Traffic,Snowy,Normal Day,Yes
+Tumbler,"Richardson, Mccormick and Chen",SpringGreen,Auditorium,11-02-2024,12-01-2024,Sporting Goods,06-02-2024,First Time Reporter,Housekeeping,Low,Damaged,Not Covered,High Traffic,Sunny,Normal Day,Yes
+Wallet,"Simpson, Proctor and Jensen",Beige,Bus Station,19-08-2024,09-08-2024,Personal Accessories,19-08-2024,Repeat Reporter,None,Low,Excellent,Not Covered,Moderate Traffic,Cloudy,During Event,Yes
+Umbrella,Warner-Tucker,AliceBlue,Soccer Field,21-01-2024,20-01-2024,Sporting Goods,21-01-2024,Repeat Reporter,None,Low,Excellent,Covered,High Traffic,Cloudy,Normal Day,No
+Keys,-,PapayaWhip,Chemistry Lab,31-08-2023,20-08-2023,Clothing,24-08-2023,First Time Reporter,Housekeeping,High,Damaged,Covered,Moderate Traffic,Rainy,Normal Day,No
+Scarf,Duarte-Dodson,Pink,Outdoor Concert Venue,31-08-2023,20-08-2023,Books,22-08-2023,First Time Reporter,Information Desk,Low,Good,Covered,Moderate Traffic,Rainy,Normal Day,Yes
+Headphones,-,PowderBlue,Study Lounge,31-05-2023,09-05-2023,Electronics,16-05-2023,First Time Reporter,Housekeeping,Medium,Damaged,Covered,High Traffic,Cloudy,During Event,Yes
+Keys,-,DarkGreen,Beach,25-11-2023,02-11-2023,Sporting Goods,20-11-2023,First Time Reporter,Housekeeping,Low,Damaged,Covered,High Traffic,Rainy,Normal Day,Yes
+Phone Charger,Craig LLC,RoyalBlue,Dormitory Hallway,24-08-2023,05-08-2023,Personal Accessories,15-08-2023,Repeat Reporter,Security,High,Damaged,Not Covered,Low Traffic,Sunny,Normal Day,Yes
+Charger,-,DarkOliveGreen,Lecture Hall Lobby,08-12-2024,08-11-2024,Books,08-11-2024,Repeat Reporter,Security,High,Good,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Cell Phone,-,SeaShell,Bookstore,09-09-2023,10-08-2023,Personal Accessories,13-08-2023,Repeat Reporter,None,Low,Excellent,Covered,High Traffic,Rainy,During Event,Yes
+Keys,Palmer-Gaines,SlateGray,Music Studio,24-04-2023,11-04-2023,Personal Accessories,11-04-2023,First Time Reporter,Housekeeping,High,Good,Covered,Moderate Traffic,Snowy,During Event,Yes
+Scarf,-,WhiteSmoke,Computer Lab,01-09-2024,19-08-2024,Clothing,27-08-2024,Repeat Reporter,None,Medium,Good,Not Covered,Moderate Traffic,Cloudy,Normal Day,Yes
+Water Bottle,"Garza, Brooks and Martin",LightGoldenRodYellow,Botanical Garden,17-10-2024,17-09-2024,Books,26-09-2024,Repeat Reporter,Security,High,Good,Not Covered,Moderate Traffic,Cloudy,During Event,No
+Book,-,Thistle,Theme Park Entrance,26-08-2024,21-08-2024,Personal Accessories,22-08-2024,First Time Reporter,Information Desk,Low,Good,Not Covered,Low Traffic,Snowy,Normal Day,Yes
+Backpack,-,Olive,Shopping Mall,03-07-2024,08-06-2024,Sporting Goods,21-06-2024,First Time Reporter,Information Desk,High,Excellent,Not Covered,High Traffic,Snowy,During Event,Yes
+Sunglasses,Miller-Taylor,LightSeaGreen,Rooftop Bar,09-04-2024,25-03-2024,Personal Accessories,03-04-2024,First Time Reporter,Security,High,Good,Covered,Moderate Traffic,Rainy,Normal Day,No
+Water Bottle,-,Silver,Gym,12-10-2023,30-09-2023,Personal Accessories,05-10-2023,First Time Reporter,Housekeeping,Low,Good,Not Covered,Moderate Traffic,Sunny,During Event,Yes
+Cell Phone,"Turner, Werner and Potter",DarkCyan,Ice Skating Rink,16-06-2024,21-05-2024,Sporting Goods,30-05-2024,First Time Reporter,Information Desk,Medium,Damaged,Covered,High Traffic,Sunny,Normal Day,Yes
+ID Card,Simpson Group,DarkSlateGray,Student Center,26-12-2023,19-12-2023,Clothing,19-12-2023,Repeat Reporter,Housekeeping,High,Good,Covered,Low Traffic,Sunny,During Event,Yes
+Umbrella,Powell LLC,LavenderBlush,Coffee Shop Patio,07-08-2023,15-07-2023,Sporting Goods,20-07-2023,First Time Reporter,Information Desk,Low,Good,Not Covered,Moderate Traffic,Rainy,During Event,Yes
+Wallet,-,Cornsilk,Rooftop Pool,06-05-2023,15-04-2023,Personal Accessories,20-04-2023,First Time Reporter,Security,High,Damaged,Covered,High Traffic,Snowy,During Event,No
+Coffee Mug,Lopez-Hill,DarkBlue,Campus Trail,07-06-2024,04-06-2024,Books,07-06-2024,First Time Reporter,Security,Low,Excellent,Not Covered,High Traffic,Sunny,During Event,No
+Tablet,-,Thistle,Stadium Stands,10-05-2024,16-04-2024,Books,08-05-2024,First Time Reporter,None,High,Good,Not Covered,High Traffic,Snowy,During Event,Yes
+Hat,-,OrangeRed,Study Lounge,03-09-2024,06-08-2024,Sporting Goods,21-08-2024,First Time Reporter,Housekeeping,Medium,Good,Covered,High Traffic,Snowy,Normal Day,Yes
+Backpack,"Cooper, Crane and Rios",Green,Library,02-11-2024,25-10-2024,Books,26-10-2024,First Time Reporter,None,Low,Good,Covered,Moderate Traffic,Sunny,Normal Day,Yes
+Wallet,Johnson PLC,LawnGreen,Park,20-02-2023,04-02-2023,Books,09-02-2023,Repeat Reporter,None,Medium,Good,Covered,High Traffic,Cloudy,During Event,Yes
+Scarf,-,RosyBrown,Student Union,15-01-2024,06-01-2024,Electronics,09-01-2024,First Time Reporter,Information Desk,High,Damaged,Not Covered,Low Traffic,Rainy,During Event,Yes
+Wallet,-,Sienna,Bus Stop,07-10-2024,18-09-2024,Sporting Goods,27-09-2024,First Time Reporter,None,High,Excellent,Not Covered,Low Traffic,Snowy,Normal Day,No
+Sunglasses,Horn LLC,Olive,Cafeteria,17-09-2023,26-08-2023,Books,05-09-2023,First Time Reporter,Security,High,Excellent,Covered,High Traffic,Rainy,Normal Day,Yes
+Water Bottle,Wagner-Davis,Thistle,Bus Stop,06-01-2024,31-12-2023,Books,31-12-2023,First Time Reporter,Security,Low,Damaged,Covered,High Traffic,Snowy,Normal Day,No
+Tumbler,-,Coral,Cafeteria,03-10-2024,01-10-2024,Personal Accessories,01-10-2024,Repeat Reporter,Information Desk,Low,Damaged,Covered,Moderate Traffic,Cloudy,Normal Day,Yes
